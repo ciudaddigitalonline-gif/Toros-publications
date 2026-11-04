@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-09-short-blockbuster",
+  "formato": "short",
+  "titulo": "Blockbuster pudo comprar Netflix por 50 millones",
+  "descripcion": "En el año 2000, los fundadores de Netflix ofrecieron su empresa a Blockbuster por 50 millones de dólares. Blockbuster la rechazó. Diez años después, el gigante del videoclub se declaró en quiebra. #Shorts #historiasdenegocios #netflix #blockbuster #emprendimiento\n\nFuentes: Newsweek (fact check), Business Insider, libro \"That Will Never Work\" de Marc Randolph.",
+  "etiquetas": ["blockbuster", "netflix", "historia de netflix", "blockbuster netflix 50 millones", "quiebras famosas", "historias de negocios", "emprendimiento"],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-11-09T19:00:00",
+  "colores": { "a": "#2E5BE0", "b": "#E2142D" },
+  "miniatura": { "texto": "DIJO\nQUE NO", "emoji": "💸", "fondo": "#F7C631", "sub": "$50 MILLONES" },
+  "escenas": [
+    { "tipo": "cheque", "etiqueta": "AÑO 2000", "para": "NETFLIX", "monto": "$50.000.000", "letras": "Cincuenta millones de dólares", "firma": "BLOCKBUSTER", "romper": true, "sello": { "texto": "DIJO QUE NO", "en": 0.72 },
+      "texto": "En el año 2000, Netflix se ofreció a Blockbuster por 50 millones de dólares… y Blockbuster dijo que no.",
+      "texto_voz": "En el año dos mil, Netflix se ofreció a Blockbuster por cincuenta millones de dólares… y Blockbuster dijo que no." },
+    { "tipo": "grafico", "etiqueta": "NETFLIX · DVD POR CORREO", "etiqueta_color": "b", "rotulo": "PÉRDIDAS", "tendencia": "baja",
+      "texto": "Netflix era una empresa chica: mandaba DVD por correo y perdía plata." },
+    { "tipo": "numero", "desde": 0, "hasta": 9000, "rotulo": "LOCALES EN SU MEJOR MOMENTO",
+      "texto": "Blockbuster era un gigante: llegó a tener unos 9.000 locales.",
+      "texto_voz": "Blockbuster era un gigante: llegó a tener unos nueve mil locales." },
+    { "tipo": "personajes", "etiqueta": "DALLAS · 2000", "grupos": [ { "n": 2, "color": "b", "rotulo": "NETFLIX" }, { "n": 1, "color": "a", "rotulo": "BLOCKBUSTER", "grande": true } ], "burbujas": ["JA", "JA JA", "JA"], "nota": "según Marc Randolph, cofundador de Netflix",
+      "texto": "Los fundadores de Netflix volaron a Dallas. Según uno de ellos, al CEO de Blockbuster le costó no reírse." },
+    { "tipo": "documento", "encabezado": "MULTA POR\nDEVOLVER TARDE", "filas": [["Película · 1 día", "$3"], ["Película · 2 días", "$6"], ["Estreno · 3 días", "$9"], ["Infantil · 4 días", "$12"], ["Película · 5 días", "$15"]], "total": { "rotulo": "TOTAL", "desde": 0, "hasta": 800, "prefijo": "$", "sufijo": "M" },
+      "texto": "Blockbuster ganaba fortunas con algo que la gente odiaba: las multas por devolver tarde. Unos 800 millones de dólares.",
+      "texto_voz": "Blockbuster ganaba fortunas con algo que la gente odiaba: las multas por devolver tarde. Unos ochocientos millones de dólares." },
+    { "tipo": "linea_tiempo", "etiqueta": "10 AÑOS", "hitos": [ { "anio": "2000", "rotulo": "DICE QUE NO", "icono": "✋", "color": "#F4EBDD" }, { "anio": "2007", "rotulo": "STREAMING", "icono": "▶️", "color": "b" }, { "anio": "2010", "rotulo": "QUIEBRA", "icono": "💥", "color": "a" } ], "sello": { "texto": "QUIEBRA", "en": 0.8, "y": 0.86 },
+      "texto": "Netflix apostó a no cobrar multas, pasó al streaming… y en 2010 Blockbuster quebró.",
+      "texto_voz": "Netflix apostó a no cobrar multas, pasó al streaming… y en dos mil diez Blockbuster quebró." },
+    { "tipo": "mapa", "modo": "apagar", "grande": "QUEDA 1", "rotulo": "BEND, OREGON · EE. UU.",
+      "texto": "Hoy queda un solo Blockbuster en el mundo, en Oregon." },
+    { "tipo": "pregunta", "pregunta": "¿LO HABRÍAS\nCOMPRADO?", "opciones": ["SÍ", "NO"],
+      "texto": "¿Y vos lo habrías comprado? Seguí para más historias Detrás de la Marca." }
+  ]
+}

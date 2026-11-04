@@ -1,0 +1,59 @@
+{
+  "canal": "Detrás de la Marca",
+  "nicho": {
+    "descripcion": "Historias reales de empresas y marcas: cómo nacieron, sus errores, quiebras y regresos.",
+    "publico": "Hispanohablantes de España y Latinoamérica, 18 a 45 años, español neutro",
+    "consultas_tendencias": [
+      "historia de la empresa",
+      "por qué quebró",
+      "historia de la marca",
+      "cómo nació la empresa",
+      "el error que hundió",
+      "historias de negocios",
+      "caso de éxito empresa",
+      "empresa que casi quiebra"
+    ],
+    "idioma": "es",
+    "regiones": [
+      "ES",
+      "MX",
+      "AR",
+      "CO",
+      "CL",
+      "PE",
+      "US"
+    ]
+  },
+  "voz": {
+    "voice_id": "",
+    "modelo": "eleven_multilingual_v2",
+    "ajustes": {
+      "stability": 0.45,
+      "similarity_boost": 0.75,
+      "style": 0.25
+    }
+  },
+  "musica": {
+    "archivo": "",
+    "volumen": 0.12
+  },
+  "youtube": {
+    "categoria": "EDUCATION"
+  },
+  "publicacion": {
+    "zona": "Europe/Madrid",
+    "hora_shorts": "19:00",
+    "hora_largos": "18:00",
+    "dia_largo": "jueves",
+    "url_base": "",
+    "requiere_aprobacion": true,
+    "revisor": "manutefernandez@gmail.com"
+  },
+  "metricool": {
+    "blogId": ""
+  },
+  "ritmo": {
+    "shorts_por_semana": 6,
+    "largos_por_semana": 1
+  }
+}

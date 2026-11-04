@@ -1,0 +1,4 @@
+node_modules/
+*.tmp
+videos/*-sin-voz.mp4
+videos/edit/

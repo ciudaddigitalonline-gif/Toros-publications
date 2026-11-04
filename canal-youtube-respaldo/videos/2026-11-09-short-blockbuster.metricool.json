@@ -1,0 +1,36 @@
+{
+  "blogId": "COMPLETAR",
+  "info": {
+    "providers": [
+      {
+        "network": "youtube"
+      }
+    ],
+    "text": "En el año 2000, los fundadores de Netflix ofrecieron su empresa a Blockbuster por 50 millones de dólares. Blockbuster la rechazó. Diez años después, el gigante del videoclub se declaró en quiebra. #Shorts #historiasdenegocios #netflix #blockbuster #emprendimiento\n\nFuentes: Newsweek (fact check), Business Insider, libro \"That Will Never Work\" de Marc Randolph.",
+    "media": [
+      "(subir 2026-11-09-short-blockbuster-sin-voz.mp4 y completar la URL pública)"
+    ],
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-09T19:00:00",
+      "timezone": "Europe/Madrid"
+    },
+    "youtubeData": {
+      "title": "Blockbuster pudo comprar Netflix por 50 millones",
+      "type": "short",
+      "privacy": "public",
+      "tags": [
+        "blockbuster",
+        "netflix",
+        "historia de netflix",
+        "blockbuster netflix 50 millones",
+        "quiebras famosas",
+        "historias de negocios",
+        "emprendimiento"
+      ],
+      "category": "EDUCATION",
+      "madeForKids": false,
+      "isAiGeneratedContent": false
+    }
+  }
+}
