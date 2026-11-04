@@ -1,0 +1,101 @@
+{
+  "id": "2026-11-30-short-toyota-telares",
+  "formato": "short",
+  "titulo": "Toyota fabricaba telares antes que autos",
+  "descripcion": "Antes de ser la automotriz más famosa de Japón, Toyota fabricaba máquinas para tejer. Y una patente vendida a Inglaterra ayudó a financiar sus primeros autos. #Shorts #historiasdenegocios #toyota #marcas\n\nFuentes: Toyota (cronología oficial), Toyota Motor Asia Pacific, Automotive Hall of Fame.",
+  "etiquetas": [
+    "toyota",
+    "historia de toyota",
+    "sakichi toyoda",
+    "telar automático",
+    "historias de negocios",
+    "marcas"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-11-30T19:00:00",
+  "colores": {
+    "a": "#EB0A1E",
+    "b": "#F4EBDD"
+  },
+  "miniatura": {
+    "texto": "ANTES\nTEJÍA",
+    "emoji": "🧵",
+    "fondo": "#EB0A1E",
+    "sub": "TOYOTA"
+  },
+  "escenas": [
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "HOY",
+        "valor": "🚗",
+        "color": "a"
+      },
+      "der": {
+        "titulo": "ANTES",
+        "valor": "🧵",
+        "color": "amarillo"
+      },
+      "texto": "Antes de fabricar autos, Toyota fabricaba… telares."
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "JAPÓN · 1924",
+      "grande": "EL TELAR\nAUTOMÁTICO",
+      "tam": 14,
+      "texto": "Sakichi Toyoda era inventor. En 1924 terminó un telar automático que funcionaba casi sin intervención humana.",
+      "texto_voz": "Sakichi Toyoda era inventor. En mil novecientos veinticuatro terminó un telar automático que funcionaba casi sin intervención humana."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "1926",
+      "tam": 24,
+      "sub": "TOYODA AUTOMATIC LOOM WORKS",
+      "texto": "En 1926 fundó su empresa de telares. Y su hijo, Kiichiro, ya soñaba con otra cosa: los autos.",
+      "texto_voz": "En mil novecientos veintiséis fundó su empresa de telares. Y su hijo, Kiichiro, ya soñaba con otra cosa: los autos."
+    },
+    {
+      "tipo": "cheque",
+      "banco": "PLATT BROTHERS · INGLATERRA",
+      "para": "TOYODA",
+      "monto": "PATENTE",
+      "letras": "Derechos del telar automático · 1929",
+      "firma": "PLATT BROTHERS",
+      "romper": false,
+      "texto": "En 1929 vendieron los derechos de la patente del telar a una empresa inglesa. Esa plata ayudó a financiar el sueño de Kiichiro.",
+      "texto_voz": "En mil novecientos veintinueve vendieron los derechos de la patente del telar a una empresa inglesa. Esa plata ayudó a financiar el sueño de Kiichiro."
+    },
+    {
+      "tipo": "linea_tiempo",
+      "hitos": [
+        {
+          "anio": "1926",
+          "rotulo": "TELARES",
+          "icono": "🧵",
+          "color": "amarillo"
+        },
+        {
+          "anio": "1933",
+          "rotulo": "SECCIÓN AUTOS",
+          "icono": "🔧",
+          "color": "a"
+        },
+        {
+          "anio": "1937",
+          "rotulo": "TOYOTA MOTOR",
+          "icono": "🚗",
+          "color": "verde"
+        }
+      ],
+      "texto": "En 1933 abrieron una sección de autos dentro de la fábrica de telares. Y en 1937 nació Toyota Motor.",
+      "texto_voz": "En mil novecientos treinta y tres abrieron una sección de autos dentro de la fábrica de telares. Y en mil novecientos treinta y siete nació Toyota Motor."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "UN TELAR\nPAGÓ EL AUTO",
+      "tam": 13,
+      "color": "amarillo",
+      "texto": "Un telar ayudó a pagar el primer auto. Seguí para más historias Detrás de la Marca."
+    }
+  ]
+}

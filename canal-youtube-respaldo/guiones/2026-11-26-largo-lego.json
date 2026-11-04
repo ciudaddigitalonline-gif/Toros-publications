@@ -1,0 +1,447 @@
+{
+  "id": "2026-11-26-largo-lego",
+  "formato": "largo",
+  "titulo": "LEGO: de casi quebrar a la juguetera más grande del mundo",
+  "descripcion": "En 2003 LEGO perdía plata y uno de sus directivos advirtió que la empresa podía desaparecer. Doce años después era la juguetera más grande del mundo por ventas. Cómo se salvó haciendo exactamente lo contrario de lo que se enseña sobre crecer.\n\n{{CAPITULOS}}\n\nFuentes: Entrepreneur / Business Insider (cómo LEGO volvió de la quiebra), Reuters vía NZ Herald y GlobeSt (venta de Legoland, 2005), informe anual de LEGO 2003, PlasticsToday y The Hustle (Galidor), Mental Floss y Lemelson-MIT (historia temprana y patente de 1958), Wikipedia (The LEGO Group).\n\n#historiasdenegocios #lego #emprendimiento",
+  "etiquetas": [
+    "lego",
+    "historia de lego",
+    "lego casi quiebra",
+    "knudstorp",
+    "lego vs mattel",
+    "galidor",
+    "historias de negocios",
+    "emprendimiento",
+    "estrategia empresarial"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-11-26T18:00:00",
+  "colores": {
+    "a": "#D01012",
+    "b": "#F6C400"
+  },
+  "miniatura": {
+    "texto": "CASI\nDESAPARECE",
+    "emoji": "🧱",
+    "fondo": "#D01012",
+    "sub": "Y SE VOLVIÓ N.º 1",
+    "tam": 130
+  },
+  "escenas": [
+    {
+      "tipo": "objeto",
+      "emoji": "🧱",
+      "rotulo": "LEGO · 2003",
+      "capitulo": "La empresa que casi desaparece",
+      "sello": {
+        "texto": "EN PELIGRO",
+        "en": 0.7,
+        "y": 0.78
+      },
+      "texto": "En 2003, la juguetera más famosa del mundo estaba perdiendo plata, y uno de sus directivos se paró frente al directorio para decir algo que nadie quería escuchar.",
+      "texto_voz": "En dos mil tres, la juguetera más famosa del mundo estaba perdiendo plata, y uno de sus directivos se paró frente al directorio para decir algo que nadie quería escuchar."
+    },
+    {
+      "tipo": "cita",
+      "texto_cita": "Si seguimos así, en unos años no va a haber LEGO.",
+      "autor": "Jørgen Vig Knudstorp",
+      "texto": "Si seguimos así, dijo, en unos años no va a haber LEGO. Doce años después, LEGO era la juguetera más grande del mundo por ventas.",
+      "texto_voz": "Si seguimos así, dijo, en unos años no va a haber LEGO. Doce años después, LEGO era la juguetera más grande del mundo por ventas."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "¿CÓMO\nSE SALVÓ?",
+      "tam": 16,
+      "color": "amarillo",
+      "texto": "¿Cómo pasó de casi desaparecer a dominar el mundo de los juguetes? La respuesta va en contra de casi todo lo que se enseña sobre crecer. Esta es la historia de LEGO."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🏠",
+      "rotulo": "EN CASI TODAS LAS CASAS",
+      "texto": "Seguramente tuviste ladrillos de LEGO de chico, o los tienen tus hijos, tus sobrinos o algún amigo adulto que los colecciona. Es una de esas marcas que parecen eternas. Por eso cuesta creer que estuvo tan cerca del final."
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "BILLUND · DINAMARCA",
+      "grande": "1932",
+      "tam": 24,
+      "sub": "UN CARPINTERO",
+      "capitulo": "Un carpintero en Dinamarca",
+      "texto": "Todo empieza en 1932, en Billund, un pueblo chico de Dinamarca. Ole Kirk Christiansen era carpintero, y en plena crisis económica empezó a fabricar escaleras, tablas de planchar y juguetes de madera.",
+      "texto_voz": "Todo empieza en mil novecientos treinta y dos, en Billund, un pueblo chico de Dinamarca. Ole Kirk Christiansen era carpintero, y en plena crisis económica empezó a fabricar escaleras, tablas de planchar y juguetes de madera."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "LEG",
+        "valor": "JUGAR",
+        "color": "a"
+      },
+      "der": {
+        "titulo": "GODT",
+        "valor": "BIEN",
+        "color": "amarillo"
+      },
+      "texto": "En 1934 eligió un nombre para su negocio: LEGO, de dos palabras danesas, leg godt, que significan jugar bien.",
+      "texto_voz": "En mil novecientos treinta y cuatro eligió un nombre para su negocio: LEGO, de dos palabras danesas, leg godt, que significan jugar bien."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🪵",
+      "rotulo": "JUGUETES DE MADERA",
+      "texto": "Durante años, LEGO fue una fábrica de juguetes de madera: patos con ruedas, autos, camiones. Bien hechos, pero nada que la diferenciara del resto."
+    },
+    {
+      "tipo": "linea_tiempo",
+      "hitos": [
+        {
+          "anio": "1932",
+          "rotulo": "MADERA",
+          "icono": "🪵",
+          "color": "amarillo"
+        },
+        {
+          "anio": "1949",
+          "rotulo": "PLÁSTICO",
+          "icono": "🧱",
+          "color": "a"
+        },
+        {
+          "anio": "1958",
+          "rotulo": "LA PATENTE",
+          "icono": "📜",
+          "color": "verde"
+        }
+      ],
+      "texto": "Después de la guerra apostó por algo nuevo: el plástico. En 1949 fabricaba sus primeros ladrillos de plástico. Pero el gran salto llegó en 1958.",
+      "texto_voz": "Después de la guerra apostó por algo nuevo: el plástico. En mil novecientos cuarenta y nueve fabricaba sus primeros ladrillos de plástico. Pero el gran salto llegó en mil novecientos cincuenta y ocho."
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "28 · 01 · 1958",
+      "grande": "EL LADRILLO\nQUE ENCASTRA",
+      "tam": 13,
+      "capitulo": "El ladrillo perfecto",
+      "texto": "El 28 de enero de 1958, Godtfred, el hijo del fundador, patentó el diseño moderno del ladrillo: arriba los botones, y abajo unos tubos que lo hacen encastrar firme.",
+      "texto_voz": "El veintiocho de enero de mil novecientos cincuenta y ocho, Godtfred, el hijo del fundador, patentó el diseño moderno del ladrillo: arriba los botones, y abajo unos tubos que lo hacen encastrar firme."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🔗",
+      "rotulo": "TODO ENCASTRA CON TODO",
+      "texto": "Parece un detalle, pero lo cambió todo. Un ladrillo de 1958 encastra con uno de hoy. Cada set nuevo suma a todos los que ya tenés en tu casa.",
+      "texto_voz": "Parece un detalle, pero lo cambió todo. Un ladrillo de mil novecientos cincuenta y ocho encastra con uno de hoy. Cada set nuevo suma a todos los que ya tenés en tu casa."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "UN SISTEMA,\nNO UN JUGUETE",
+      "tam": 12,
+      "color": "amarillo",
+      "texto": "Ese era el secreto de LEGO: no vendía juguetes sueltos, vendía un sistema. Y durante décadas, ese sistema hizo crecer a la empresa sin parar."
+    },
+    {
+      "tipo": "documento",
+      "encabezado": "EL SISTEMA\nLEGO",
+      "filas": [
+        [
+          "Set 1",
+          "+ piezas"
+        ],
+        [
+          "Set 2",
+          "+ piezas"
+        ],
+        [
+          "Set 3",
+          "+ piezas"
+        ],
+        [
+          "Tu colección",
+          "crece"
+        ]
+      ],
+      "total": {
+        "rotulo": "VALOR",
+        "desde": 1,
+        "hasta": 10,
+        "sufijo": "x"
+      },
+      "texto": "Pensalo así: cada caja que comprás no reemplaza a la anterior, se suma. Cuantas más piezas tenés, más cosas podés construir, y más ganas tenés de la próxima caja. Es un negocio que se alimenta solo."
+    },
+    {
+      "tipo": "grafico",
+      "rotulo": "CRECIMIENTO",
+      "tendencia": "sube",
+      "texto": "Pero en los años noventa pasó algo. Llegaron los videojuegos, la computadora y la televisión con cientos de canales. Y en LEGO empezaron a preocuparse: ¿los chicos se iban a aburrir de los ladrillos?",
+      "texto_voz": "Pero en los años noventa pasó algo. Llegaron los videojuegos, la computadora y la televisión con cientos de canales. Y en LEGO empezaron a preocuparse: ¿los chicos se iban a aburrir de los ladrillos?"
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Parques temáticos",
+        "Videojuegos",
+        "Ropa y relojes",
+        "Series de TV"
+      ],
+      "capitulo": "Querer hacer de todo",
+      "texto": "La respuesta fue diversificar. LEGO se metió en parques temáticos, videojuegos, ropa, relojes y series de televisión. La idea era convertirse en una marca de estilo de vida."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "PARECÍA\nLÓGICO",
+      "tam": 16,
+      "texto": "Y en el papel tenía sentido. LEGO era una marca querida en todo el mundo. ¿Por qué no usar ese nombre en más cosas? Muchas empresas hacen exactamente eso. El problema es que cada proyecto nuevo se llevaba plata, tiempo y atención del negocio principal."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🤖",
+      "rotulo": "GALIDOR",
+      "nota": "uno de sus mayores fracasos, según diseñadores de la empresa",
+      "texto": "Uno de los ejemplos más recordados es Galidor: figuras de acción con su propia serie de televisión, que casi no tenían que ver con construir. Vendió muy mal, y dentro de LEGO lo consideran uno de sus mayores fracasos."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "EL LADRILLO\nQUEDÓ ATRÁS",
+      "tam": 13,
+      "texto": "Mientras tanto, el producto que había hecho grande a LEGO, el ladrillo que encastra con todos los demás, quedaba en segundo plano. Muchos sets nuevos se parecían más a juguetes armados que a algo para construir, desarmar y volver a inventar."
+    },
+    {
+      "tipo": "numero",
+      "desde": 0,
+      "hasta": 13000,
+      "prefijo": "≈",
+      "puntos": false,
+      "rotulo": "PIEZAS DISTINTAS",
+      "texto": "Y adentro de la fábrica había otro problema, menos visible. Cada set nuevo traía piezas diseñadas solo para ese set. LEGO llegó a fabricar casi 13.000 piezas diferentes.",
+      "texto_voz": "Y adentro de la fábrica había otro problema, menos visible. Cada set nuevo traía piezas diseñadas solo para ese set. LEGO llegó a fabricar casi trece mil piezas diferentes."
+    },
+    {
+      "tipo": "documento",
+      "encabezado": "CADA PIEZA\nNUEVA CUESTA",
+      "filas": [
+        [
+          "Diseño",
+          "$"
+        ],
+        [
+          "Molde",
+          "$$$"
+        ],
+        [
+          "Stock",
+          "$$"
+        ],
+        [
+          "Logística",
+          "$$"
+        ]
+      ],
+      "texto": "Cada pieza distinta necesita su propio molde, su propio stock y su propia logística. Más piezas no significaban más ventas. Significaban más costos."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "⛵",
+      "rotulo": "EJEMPLO",
+      "nota": "ejemplo ilustrativo",
+      "texto": "Un ejemplo para entenderlo: si un barco trae el casco hecho de una sola pieza gigante, esa pieza sirve para ese barco y para nada más. Con ladrillos comunes, el mismo casco se puede desarmar y convertirse en una casa, un auto o un dragón."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "SOBRABAN\nIDEAS",
+      "tam": 16,
+      "color": "amarillo",
+      "texto": "El problema de LEGO no era la falta de creatividad. Al contrario: sobraban ideas. Lo que faltaba era alguien que dijera que no."
+    },
+    {
+      "tipo": "grafico",
+      "rotulo": "RESULTADOS",
+      "tendencia": "baja",
+      "capitulo": "Al borde de la quiebra",
+      "texto": "Los números empezaron a caer. En 1998 LEGO tuvo pérdidas por primera vez en mucho tiempo. Y en 2003 la caída fue enorme.",
+      "texto_voz": "Los números empezaron a caer. En mil novecientos noventa y ocho LEGO tuvo pérdidas por primera vez en mucho tiempo. Y en dos mil tres la caída fue enorme."
+    },
+    {
+      "tipo": "numero",
+      "desde": 0,
+      "hasta": 1400,
+      "sufijo": " M",
+      "puntos": false,
+      "color": "rojo",
+      "rotulo": "CORONAS DANESAS DE PÉRDIDA · 2003",
+      "texto": "Ese año perdió unos 1.400 millones de coronas danesas. Las ventas caían, las deudas crecían, y la empresa familiar más querida de Dinamarca estaba en peligro real.",
+      "texto_voz": "Ese año perdió unos mil cuatrocientos millones de coronas danesas. Las ventas caían, las deudas crecían, y la empresa familiar más querida de Dinamarca estaba en peligro real."
+    },
+    {
+      "tipo": "cita",
+      "texto_cita": "Si seguimos así, en unos años no va a haber LEGO.",
+      "autor": "Knudstorp ante el directorio, 2003",
+      "texto": "Es en ese momento cuando aparece Jørgen Vig Knudstorp, un ex consultor de 35 años que había llegado a la empresa poco antes. Fue él quien advirtió que, si nada cambiaba, LEGO iba a desaparecer.",
+      "texto_voz": "Es en ese momento cuando aparece Jørgen Vig Knudstorp, un ex consultor de treinta y cinco años que había llegado a la empresa poco antes. Fue él quien advirtió que, si nada cambiaba, LEGO iba a desaparecer."
+    },
+    {
+      "tipo": "personajes",
+      "etiqueta": "2004",
+      "grupos": [
+        {
+          "n": 1,
+          "color": "a",
+          "rotulo": "KNUDSTORP",
+          "grande": true
+        }
+      ],
+      "mesa": false,
+      "capitulo": "El plan: hacer menos",
+      "texto": "En 2004 la familia dueña hizo algo poco común: le dio el mando a él, el primer director que no era de la familia. Y su plan sorprendió a todos.",
+      "texto_voz": "En dos mil cuatro la familia dueña hizo algo poco común: le dio el mando a él, el primer director que no era de la familia. Y su plan sorprendió a todos."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "HACER\nMENOS",
+      "tam": 20,
+      "color": "amarillo",
+      "texto": "No propuso un producto nuevo ni una gran campaña. Propuso hacer menos. Primero, sobrevivir. Después, volver a lo que LEGO hacía mejor que nadie."
+    },
+    {
+      "tipo": "cheque",
+      "para": "BLACKSTONE",
+      "monto": "LEGOLAND",
+      "letras": "Parques temáticos · 2005",
+      "firma": "LEGO GROUP",
+      "romper": false,
+      "texto": "Paso uno: vender lo que no era el corazón del negocio. En 2005 LEGO vendió sus parques Legoland al fondo Blackstone y se quedó solo con una parte minoritaria del nuevo grupo.",
+      "texto_voz": "Paso uno: vender lo que no era el corazón del negocio. En dos mil cinco LEGO vendió sus parques Legoland al fondo Blackstone y se quedó solo con una parte minoritaria del nuevo grupo."
+    },
+    {
+      "tipo": "numero",
+      "desde": 0,
+      "hasta": 375,
+      "prefijo": "€",
+      "sufijo": " M",
+      "puntos": false,
+      "rotulo": "POR LOS PARQUES + 30% DEL NUEVO GRUPO",
+      "nota": "según Reuters",
+      "texto": "Según Reuters, la operación fue por unos 375 millones de euros, más un 30 por ciento del nuevo grupo de entretenimiento que se formó. Plata que LEGO necesitaba para respirar.",
+      "texto_voz": "Según Reuters, la operación fue por unos trescientos setenta y cinco millones de euros, más un treinta por ciento del nuevo grupo de entretenimiento que se formó. Plata que LEGO necesitaba para respirar."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "ANTES",
+        "valor": "≈13.000",
+        "color": "rojo"
+      },
+      "der": {
+        "titulo": "DESPUÉS",
+        "valor": "≈7.000",
+        "color": "verde"
+      },
+      "texto": "Paso dos: ordenar la fábrica. Las piezas diferentes se recortaron casi a la mitad. Si un diseñador quería una pieza nueva, tenía que justificar por qué no alcanzaba con las que ya existían.",
+      "texto_voz": "Paso dos: ordenar la fábrica. Las piezas diferentes se recortaron casi a la mitad. Si un diseñador quería una pieza nueva, tenía que justificar por qué no alcanzaba con las que ya existían."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🧱",
+      "rotulo": "VOLVER AL LADRILLO",
+      "texto": "Paso tres: volver al ladrillo. Los sets tenían que poder construirse, desarmarse y combinarse con todo lo demás. El sistema de 1958 volvía a ser el centro de todo.",
+      "texto_voz": "Paso tres: volver al ladrillo. Los sets tenían que poder construirse, desarmarse y combinarse con todo lo demás. El sistema de mil novecientos cincuenta y ocho volvía a ser el centro de todo."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "PRIMERO\nSOBREVIVIR",
+      "tam": 15,
+      "color": "amarillo",
+      "texto": "Nada de esto fue lindo ni fácil. Hubo recortes duros, fábricas que se reorganizaron y proyectos queridos que se cancelaron. Pero el orden de prioridades estaba claro: primero sobrevivir, y recién después volver a crecer."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "ESCUCHAR A\nLOS FANS",
+      "tam": 13,
+      "capitulo": "Escuchar a los que construyen",
+      "texto": "Y hubo algo más: LEGO empezó a escuchar a sus fans más fieles, incluidos los adultos que seguían armando. Durante años los había mirado con desconfianza. Ahora eran una fuente de ideas."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Sets con licencias de películas",
+        "Sets para adultos",
+        "Ideas de los fans",
+        "Películas propias"
+      ],
+      "texto": "Y apostó fuerte a lo que funcionaba: sets de sagas de películas, sets complejos pensados para adultos, ideas propuestas por los propios fans y, más adelante, sus propias películas."
+    },
+    {
+      "tipo": "grafico",
+      "rotulo": "RESULTADOS",
+      "tendencia": "sube",
+      "capitulo": "El regreso",
+      "texto": "Los resultados llegaron más rápido de lo que nadie esperaba. LEGO volvió a ganar plata en pocos años, y siguió creciendo mientras otras jugueteras sufrían."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "LEGO",
+        "valor": "1.º",
+        "color": "amarillo",
+        "emoji": "🧱"
+      },
+      "der": {
+        "titulo": "MATTEL",
+        "valor": "2.º",
+        "color": "a",
+        "emoji": "🧸"
+      },
+      "nota": "por ventas, primer semestre de 2015",
+      "texto": "En 2015, la empresa que doce años antes estaba al borde de la quiebra superó a Mattel y se convirtió en la juguetera más grande del mundo por ventas.",
+      "texto_voz": "En dos mil quince, la empresa que doce años antes estaba al borde de la quiebra superó a Mattel y se convirtió en la juguetera más grande del mundo por ventas."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "CRECER =\nHACER MENOS",
+      "tam": 13,
+      "color": "amarillo",
+      "capitulo": "La lección",
+      "texto": "La lección de LEGO va en contra de lo que solemos pensar. Cuando un negocio tiene problemas, la tentación es hacer más: más productos, más mercados, más apuestas."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🎯",
+      "rotulo": "SABER QUÉ TE HACE ÚNICO",
+      "texto": "LEGO se salvó haciendo lo contrario: entendió qué la hacía única, un ladrillo que encastra con todos los demás, y le sacó todo lo que la distraía de eso."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "KODAK",
+        "valor": "SE AFERRÓ AL ROLLO",
+        "color": "rojo",
+        "emoji": "🎞️"
+      },
+      "der": {
+        "titulo": "LEGO",
+        "valor": "VOLVIÓ A SU ESENCIA",
+        "color": "verde",
+        "emoji": "🧱"
+      },
+      "texto": "Comparalo con otras historias del canal. Kodak se aferró a su producto, el rollo, y lo perdió todo. LEGO no se aferró a un producto: se aferró a lo que sabía hacer mejor que nadie, y desde ahí volvió a crecer."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Saber qué te hace único",
+        "Decir que no",
+        "Escuchar a los que más te quieren"
+      ],
+      "texto": "Si tuviera que resumirlo en tres ideas: saber qué te hace único. Animarte a decir que no a lo que te distrae. Y escuchar a los clientes que más te quieren, aunque no sean los que esperabas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿QUÉ SET\nTE MARCÓ?",
+      "opciones": [
+        "CIUDAD",
+        "OTRO"
+      ],
+      "texto": "¿Y vos? ¿Qué set de LEGO te marcó? Contame en los comentarios. Y si te gustó esta historia, mirá la de Kodak, la empresa que inventó la cámara digital y la guardó."
+    }
+  ]
+}

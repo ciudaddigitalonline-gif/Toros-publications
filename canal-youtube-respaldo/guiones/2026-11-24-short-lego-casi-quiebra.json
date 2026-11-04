@@ -1,0 +1,78 @@
+{
+  "id": "2026-11-24-short-lego-casi-quiebra",
+  "formato": "short",
+  "relacionado": "2026-11-26-largo-lego",
+  "titulo": "LEGO estuvo a punto de quebrar",
+  "descripcion": "A comienzos de los 2000, LEGO perdía plata y su propio director avisó que la empresa podía desaparecer. Cómo se salvó, en el video completo del canal. #Shorts #historiasdenegocios #lego #quiebras\n\nFuentes: Entrepreneur / Business Insider, Reuters (NZ Herald), informe anual de LEGO 2003.",
+  "etiquetas": [
+    "lego",
+    "lego casi quiebra",
+    "historia de lego",
+    "knudstorp",
+    "historias de negocios",
+    "emprendimiento"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-11-24T19:00:00",
+  "colores": {
+    "a": "#D01012",
+    "b": "#F6C400"
+  },
+  "miniatura": {
+    "texto": "CASI\nQUIEBRA",
+    "emoji": "🧱",
+    "fondo": "#D01012",
+    "sub": "LEGO · 2003"
+  },
+  "escenas": [
+    {
+      "tipo": "objeto",
+      "emoji": "🧱",
+      "rotulo": "LEGO · 2003",
+      "sello": {
+        "texto": "EN PELIGRO",
+        "en": 0.6,
+        "y": 0.75
+      },
+      "texto": "La juguetera más famosa del mundo estuvo a punto de desaparecer."
+    },
+    {
+      "tipo": "grafico",
+      "rotulo": "RESULTADOS",
+      "tendencia": "baja",
+      "texto": "A comienzos de los 2000, LEGO perdía plata. En 2003 cerró con pérdidas de unos 1.400 millones de coronas danesas.",
+      "texto_voz": "A comienzos de los dos mil, LEGO perdía plata. En dos mil tres cerró con pérdidas de unos mil cuatrocientos millones de coronas danesas."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Parques temáticos",
+        "Videojuegos",
+        "Ropa y relojes",
+        "Series de TV"
+      ],
+      "texto": "Se había llenado de proyectos: parques, videojuegos, ropa, series de televisión. Todo menos ladrillos."
+    },
+    {
+      "tipo": "cita",
+      "texto_cita": "Si seguimos así, en unos años no va a haber LEGO.",
+      "autor": "Jørgen Vig Knudstorp, 2003",
+      "texto": "Un joven directivo, Jørgen Vig Knudstorp, avisó: si seguimos así, en unos años no va a haber LEGO."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "VOLVER AL\nLADRILLO",
+      "tam": 15,
+      "color": "amarillo",
+      "texto": "En 2004 lo nombraron director. Y su plan fue simple: volver al ladrillo.",
+      "texto_voz": "En dos mil cuatro lo nombraron director. Y su plan fue simple: volver al ladrillo."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "LA HISTORIA\nCOMPLETA",
+      "tam": 14,
+      "sub": "EN EL VIDEO DEL CANAL",
+      "texto": "Cómo lo hizo, en el video completo del canal."
+    }
+  ]
+}

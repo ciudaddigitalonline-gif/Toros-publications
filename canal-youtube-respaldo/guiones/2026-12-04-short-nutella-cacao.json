@@ -1,0 +1,95 @@
+{
+  "id": "2026-12-04-short-nutella-cacao",
+  "formato": "short",
+  "titulo": "Nutella nació porque faltaba cacao",
+  "descripcion": "Después de la Segunda Guerra Mundial el cacao era escaso y caro. Un pastelero italiano lo estiró con avellanas… y nació la Nutella. #Shorts #historiasdenegocios #nutella #ferrero #marcas\n\nFuentes: Nutella (historia oficial), Wikipedia (Pietro Ferrero), Food Republic.",
+  "etiquetas": [
+    "nutella",
+    "historia de nutella",
+    "ferrero",
+    "pietro ferrero",
+    "gianduja",
+    "historias de negocios"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-12-04T19:00:00",
+  "colores": {
+    "a": "#7B3F00",
+    "b": "#E2142D"
+  },
+  "miniatura": {
+    "texto": "NACIÓ DE\nLA ESCASEZ",
+    "emoji": "🌰",
+    "fondo": "#7B3F00",
+    "tam": 120
+  },
+  "escenas": [
+    {
+      "tipo": "objeto",
+      "emoji": "🌰",
+      "rotulo": "AVELLANAS",
+      "texto": "La Nutella existe porque después de la guerra faltaba cacao."
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "ALBA · ITALIA",
+      "grande": "1946",
+      "tam": 24,
+      "sub": "CACAO ESCASO Y CARO",
+      "texto": "En 1946, en Alba, Italia, el cacao era escaso y carísimo. El pastelero Pietro Ferrero tuvo una idea: estirarlo con avellanas, que en su zona sobraban.",
+      "texto_voz": "En mil novecientos cuarenta y seis, en Alba, Italia, el cacao era escaso y carísimo. El pastelero Pietro Ferrero tuvo una idea: estirarlo con avellanas, que en su zona sobraban."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🍫",
+      "rotulo": "GIANDUJOT · PARA CORTAR",
+      "texto": "El resultado fue un bloque para cortar en rodajas, llamado Giandujot. Costaba mucho menos que el chocolate."
+    },
+    {
+      "tipo": "linea_tiempo",
+      "hitos": [
+        {
+          "anio": "1946",
+          "rotulo": "BLOQUE",
+          "icono": "🧱",
+          "color": "a"
+        },
+        {
+          "anio": "1951",
+          "rotulo": "UNTABLE",
+          "icono": "🥄",
+          "color": "amarillo"
+        },
+        {
+          "anio": "1964",
+          "rotulo": "NUTELLA",
+          "icono": "🫙",
+          "color": "b"
+        }
+      ],
+      "texto": "En 1951 apareció una versión para untar, la Supercrema. Y en 1964, su hijo Michele mejoró la receta y le puso un nombre nuevo: Nutella.",
+      "texto_voz": "En mil novecientos cincuenta y uno apareció una versión para untar, la Supercrema. Y en mil novecientos sesenta y cuatro, su hijo Michele mejoró la receta y le puso un nombre nuevo: Nutella."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "NUT",
+        "valor": "NUEZ",
+        "color": "a"
+      },
+      "der": {
+        "titulo": "-ELLA",
+        "valor": "ITALIANO",
+        "color": "b"
+      },
+      "texto": "El nombre mezcla nut, fruto seco en inglés, con una terminación italiana."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "DE LA FALTA\nA LA FORTUNA",
+      "tam": 12,
+      "color": "amarillo",
+      "texto": "Un problema de escasez terminó creando una de las marcas más famosas del mundo. Seguí para más historias."
+    }
+  ]
+}

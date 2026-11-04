@@ -1,0 +1,89 @@
+{
+  "id": "2026-12-01-short-amancio-ortega",
+  "formato": "short",
+  "relacionado": "2026-12-03-largo-zara",
+  "titulo": "El fundador de Zara empezó como repartidor",
+  "descripcion": "Antes de crear Zara e Inditex, Amancio Ortega era un chico que repartía camisas en A Coruña. Historia completa de Zara en el canal. #Shorts #historiasdenegocios #zara #amancioortega #emprendimiento\n\nFuentes: Britannica, Biografías y Vidas, El Español, Modaes.",
+  "etiquetas": [
+    "amancio ortega",
+    "zara",
+    "inditex",
+    "historia de zara",
+    "emprendimiento",
+    "historias de negocios"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-12-01T19:00:00",
+  "colores": {
+    "a": "#8A7F72",
+    "b": "#E8E2D6"
+  },
+  "miniatura": {
+    "texto": "EMPEZÓ\nREPARTIENDO",
+    "emoji": "👔",
+    "fondo": "#E8E2D6",
+    "sub": "FUNDADOR DE ZARA",
+    "tam": 120
+  },
+  "escenas": [
+    {
+      "tipo": "objeto",
+      "emoji": "📦",
+      "rotulo": "UN CHICO REPARTIDOR",
+      "texto": "El fundador de Zara empezó repartiendo camisas en bicicleta… bueno, repartiendo camisas."
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "A CORUÑA",
+      "grande": "CAMISERÍA\nGALA",
+      "tam": 14,
+      "nota": "a los 13 o 14 años, según la fuente",
+      "texto": "Amancio Ortega dejó la escuela muy joven y empezó a trabajar como repartidor en una camisería de A Coruña."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🧵",
+      "rotulo": "APRENDIÓ EL NEGOCIO",
+      "texto": "Ahí aprendió cuánto costaba hacer una prenda, cuánto se cobraba, y todo lo que se perdía en el camino entre la fábrica y el cliente."
+    },
+    {
+      "tipo": "linea_tiempo",
+      "hitos": [
+        {
+          "anio": "1963",
+          "rotulo": "CONFECCIONES GOA",
+          "icono": "🧵",
+          "color": "amarillo"
+        },
+        {
+          "anio": "1975",
+          "rotulo": "PRIMER ZARA",
+          "icono": "🏬",
+          "color": "b"
+        },
+        {
+          "anio": "1985",
+          "rotulo": "INDITEX",
+          "icono": "🌍",
+          "color": "verde"
+        }
+      ],
+      "texto": "En 1963 fundó su propio taller. En 1975 abrió la primera tienda Zara en A Coruña. Y en 1985 creó Inditex.",
+      "texto_voz": "En mil novecientos sesenta y tres fundó su propio taller. En mil novecientos setenta y cinco abrió la primera tienda Zara en A Coruña. Y en mil novecientos ochenta y cinco creó Inditex."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "DE REPARTIDOR\nA IMPERIO",
+      "tam": 12,
+      "color": "amarillo",
+      "texto": "El chico que repartía camisas terminó creando uno de los grupos de moda más grandes del mundo."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "¿CÓMO LO\nHIZO?",
+      "tam": 16,
+      "sub": "VIDEO COMPLETO EN EL CANAL",
+      "texto": "Cómo lo hizo, en el video completo de Zara en el canal."
+    }
+  ]
+}

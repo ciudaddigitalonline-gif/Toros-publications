@@ -1,0 +1,432 @@
+{
+  "id": "2026-12-03-largo-zara",
+  "formato": "largo",
+  "titulo": "Zara: cómo fabrica ropa nueva en semanas y no en meses",
+  "descripcion": "Un chico que repartía camisas en A Coruña creó una de las marcas de ropa más grandes del mundo. El secreto de Zara no está en la moda: está en fabricar cerca, escuchar a las tiendas y mover poco pero seguido. Y por qué casi no necesita publicidad.\n\n{{CAPITULOS}}\n\nFuentes: Britannica (Amancio Ortega), Biografías y Vidas, El Español, Modaes; casos de estudio sobre la cadena de suministro de Zara (Georgetown McDonough, Apparel Resources, Tradlinx); análisis de marketing de Advergize. Las cifras de plazos, fabricación cercana y gasto en publicidad son estimaciones que varían según la fuente.\n\n#historiasdenegocios #zara #inditex #emprendimiento",
+  "etiquetas": [
+    "zara",
+    "inditex",
+    "amancio ortega",
+    "historia de zara",
+    "fast fashion",
+    "moda rápida",
+    "cadena de suministro",
+    "historias de negocios",
+    "emprendimiento"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-12-03T18:00:00",
+  "colores": {
+    "a": "#8A7F72",
+    "b": "#E8E2D6"
+  },
+  "miniatura": {
+    "texto": "EN SEMANAS,\nNO MESES",
+    "emoji": "👗",
+    "fondo": "#E8E2D6",
+    "sub": "EL SECRETO DE ZARA",
+    "tam": 120
+  },
+  "escenas": [
+    {
+      "tipo": "objeto",
+      "emoji": "👗",
+      "rotulo": "DE LA PASARELA A LA TIENDA",
+      "capitulo": "La pregunta",
+      "texto": "Un vestido aparece en un desfile o en las redes, y pocas semanas después algo parecido ya está colgado en una tienda Zara. Mientras tanto, muchas marcas tradicionales tardaban meses en llevar una prenda nueva al local."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "¿CÓMO\nLO HACE?",
+      "tam": 16,
+      "color": "amarillo",
+      "texto": "¿Cómo lo logra? La respuesta no está en la moda. Está en la logística, en la información y en una idea que su fundador aprendió de chico, repartiendo camisas."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🛍️",
+      "rotulo": "EN CASI TODAS LAS CIUDADES",
+      "texto": "Seguramente hay una Zara en tu ciudad, o la viste en algún viaje. Es tan parte del paisaje que pocas veces nos preguntamos cómo funciona por dentro. Y por dentro es una de las máquinas más interesantes del mundo de los negocios."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "ESTA ES LA\nHISTORIA DE ZARA",
+      "tam": 12,
+      "texto": "Esta es la historia de cómo una tienda de A Coruña cambió la forma en que el mundo compra ropa. Y de por qué casi no necesita hacer publicidad."
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "A CORUÑA · AÑOS 50",
+      "grande": "UN CHICO\nREPARTIDOR",
+      "tam": 14,
+      "capitulo": "Un chico que repartía camisas",
+      "nota": "a los 13 o 14 años, según la fuente",
+      "texto": "Amancio Ortega dejó la escuela muy joven y empezó a trabajar como repartidor en una camisería de A Coruña, en Galicia, en el norte de España."
+    },
+    {
+      "tipo": "documento",
+      "encabezado": "EL CAMINO DE\nUNA CAMISA",
+      "filas": [
+        [
+          "Tela",
+          "$"
+        ],
+        [
+          "Taller",
+          "$$"
+        ],
+        [
+          "Intermediarios",
+          "$$$"
+        ],
+        [
+          "Tienda",
+          "$$$$"
+        ]
+      ],
+      "texto": "Ahí vio de cerca algo que lo marcó: entre la tela y el cliente había demasiados pasos. Cada intermediario sumaba tiempo y costo, y al final la prenda llegaba cara y tarde."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "1963",
+      "tam": 24,
+      "sub": "CONFECCIONES GOA",
+      "texto": "En 1963 fundó su propio taller, Confecciones GOA, sus iniciales al revés. Fabricaba batas y ropa de casa para vender a otras tiendas.",
+      "texto_voz": "En mil novecientos sesenta y tres fundó su propio taller, Confecciones GOA, sus iniciales al revés. Fabricaba batas y ropa de casa para vender a otras tiendas."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "DEPENDER\nDE OTROS",
+      "tam": 14,
+      "texto": "Vender a otras tiendas tenía un problema: él fabricaba, pero eran otros los que decidían qué se exhibía, a qué precio y cuándo. Si una prenda no se vendía, se enteraba tarde. Y si se vendía muy bien, también."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🏬",
+      "rotulo": "A CORUÑA · 1975",
+      "capitulo": "La primera tienda",
+      "texto": "En 1975 dio el paso que lo cambió todo: abrió su propia tienda en A Coruña. La llamó Zara. Ahora controlaba las dos puntas del negocio: la fábrica y el mostrador.",
+      "texto_voz": "En mil novecientos setenta y cinco dio el paso que lo cambió todo: abrió su propia tienda en A Coruña. La llamó Zara. Ahora controlaba las dos puntas del negocio: la fábrica y el mostrador."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "MODELO CLÁSICO",
+        "valor": "ADIVINAR",
+        "color": "rojo",
+        "emoji": "🔮"
+      },
+      "der": {
+        "titulo": "ZARA",
+        "valor": "ESCUCHAR",
+        "color": "verde",
+        "emoji": "👂"
+      },
+      "texto": "Y eso le dio una ventaja enorme. El modelo clásico de la moda era adivinar: decidir con meses de anticipación qué se iba a usar, fabricar mucho y rezar. Zara podía hacer otra cosa: escuchar."
+    },
+    {
+      "tipo": "documento",
+      "encabezado": "EL MODELO CLÁSICO",
+      "filas": [
+        [
+          "Marzo",
+          "Diseñar"
+        ],
+        [
+          "Abril–julio",
+          "Fabricar lejos"
+        ],
+        [
+          "Agosto",
+          "Enviar"
+        ],
+        [
+          "Septiembre",
+          "Vender… o no"
+        ]
+      ],
+      "nota": "ejemplo ilustrativo",
+      "texto": "Un ejemplo para entenderlo: en el modelo clásico, una marca decide en marzo qué va a vender en septiembre. Fabrica lejos, envía en barco y recién cuando la ropa llega a la tienda descubre si acertó. Si se equivocó, ya es tarde."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "1985",
+      "tam": 24,
+      "sub": "NACE INDITEX",
+      "texto": "La cadena creció primero en España, y en 1985 Ortega creó Inditex, el grupo que reúne a Zara y a las marcas que vendrían después.",
+      "texto_voz": "La cadena creció primero en España, y en mil novecientos ochenta y cinco Ortega creó Inditex, el grupo que reúne a Zara y a las marcas que vendrían después."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "EL SECRETO:\nLA VELOCIDAD",
+      "tam": 12,
+      "color": "amarillo",
+      "capitulo": "El secreto: la velocidad",
+      "texto": "El secreto de Zara se resume en una palabra: velocidad. Y esa velocidad descansa sobre tres piezas que funcionan juntas."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Fabricar cerca",
+        "Escuchar a las tiendas",
+        "Mover poco, pero seguido"
+      ],
+      "texto": "Uno: fabricar cerca. Dos: escuchar a las tiendas. Tres: mover poca mercadería, pero muy seguido. Veamos cada una."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🗺️",
+      "rotulo": "ESPAÑA · PORTUGAL · MARRUECOS · TURQUÍA",
+      "nota": "la proporción exacta varía según la fuente",
+      "texto": "Primero, la cercanía. Mientras muchas marcas fabricaban todo en Asia, del otro lado del mundo, Zara produce una parte importante de su ropa cerca de casa: en España, Portugal, Marruecos y Turquía."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "LEJOS",
+        "valor": "BARATO Y LENTO",
+        "color": "rojo",
+        "emoji": "🚢"
+      },
+      "der": {
+        "titulo": "CERCA",
+        "valor": "CARO Y RÁPIDO",
+        "color": "verde",
+        "emoji": "🚚"
+      },
+      "texto": "Fabricar cerca suele ser más caro. Pero tiene una ventaja que vale oro en la moda: si algo empieza a venderse bien, se puede producir más en días, no en meses."
+    },
+    {
+      "tipo": "personajes",
+      "etiqueta": "EN CADA TIENDA",
+      "grupos": [
+        {
+          "n": 1,
+          "color": "a",
+          "rotulo": "ENCARGADA"
+        },
+        {
+          "n": 2,
+          "color": "b",
+          "rotulo": "CLIENTES"
+        }
+      ],
+      "burbujas": [
+        "¿HAY EN AZUL?",
+        "¿MÁS LARGO?"
+      ],
+      "mesa": false,
+      "texto": "Segundo, escuchar. Los encargados de las tiendas reportan qué se vende, qué no, y qué piden los clientes que no encuentran. ¿Lo tienen en azul? ¿Hay uno más largo? Esa información viaja a los diseñadores."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "LA TIENDA\nCOMO SENSOR",
+      "tam": 13,
+      "texto": "En lugar de adivinar qué va a gustar, Zara mira qué está gustando y reacciona. Las tiendas no son solo un lugar para vender: son el sensor de toda la empresa."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "📊",
+      "rotulo": "ANTES DE LAS REDES",
+      "texto": "Hoy esto suena obvio: cualquier tienda online mide todo lo que hacen sus clientes. Pero Zara aplicaba esta lógica en tiendas físicas, con planillas y llamados, mucho antes de que existieran los teléfonos inteligentes y las redes sociales."
+    },
+    {
+      "tipo": "linea_tiempo",
+      "hitos": [
+        {
+          "anio": "IDEA",
+          "rotulo": "DISEÑO",
+          "icono": "✏️",
+          "color": "amarillo"
+        },
+        {
+          "anio": "TALLER",
+          "rotulo": "PRODUCCIÓN",
+          "icono": "🧵",
+          "color": "a"
+        },
+        {
+          "anio": "TIENDA",
+          "rotulo": "EN SEMANAS",
+          "icono": "🏬",
+          "color": "verde"
+        }
+      ],
+      "nota": "los plazos varían según la prenda y la fuente",
+      "texto": "Con fábricas cerca y datos frescos, una prenda nueva puede pasar de la idea a la tienda en pocas semanas. En la industria tradicional, ese recorrido podía llevar meses."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🚚",
+      "rotulo": "ROPA NUEVA DOS VECES POR SEMANA",
+      "texto": "Tercero, mover poco pero seguido. Según varios análisis del caso, las tiendas reciben mercadería nueva un par de veces por semana. No grandes temporadas, sino un goteo constante de novedades."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "TANDAS\nCHICAS",
+      "tam": 16,
+      "color": "amarillo",
+      "capitulo": "Tandas chicas y escasez",
+      "texto": "Y acá aparece una de las ideas más inteligentes del modelo: fabricar tandas chicas. Si una prenda no funciona, se fabricó poca, y se pierde poco."
+    },
+    {
+      "tipo": "grafico",
+      "rotulo": "SI ALGO SE VENDE BIEN…",
+      "tendencia": "sube",
+      "texto": "Si una prenda funciona, se fabrica más, rápido. El riesgo de quedarse con montañas de ropa que nadie quiere, el gran problema de la moda, se achica muchísimo."
+    },
+    {
+      "tipo": "numero",
+      "desde": 0,
+      "hasta": 50,
+      "prefijo": "-",
+      "sufijo": "%",
+      "puntos": false,
+      "color": "rojo",
+      "rotulo": "LIQUIDACIÓN",
+      "nota": "ejemplo ilustrativo",
+      "texto": "En la moda tradicional, lo que no se vende termina en liquidación, con descuentos enormes. Cada prenda rebajada es ganancia que se pierde. Fabricar menos, y solo lo que funciona, significa liquidar mucho menos."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "SI TE GUSTA,\nLLEVALO HOY",
+      "tam": 12,
+      "texto": "Pero las tandas chicas tienen otro efecto, más psicológico. Si sabés que la prenda que te gustó puede no estar la semana que viene, no esperás a la liquidación. La llevás hoy."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🔁",
+      "rotulo": "VOLVER SEGUIDO",
+      "texto": "Y como siempre hay algo nuevo, la gente vuelve seguido a mirar. Muchas tiendas de ropa sueñan con que sus clientes vuelvan unas pocas veces por año. Zara logró convertir la visita en un hábito."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "RIVALES",
+        "valor": "MUCHA",
+        "color": "rojo",
+        "emoji": "📺"
+      },
+      "der": {
+        "titulo": "ZARA",
+        "valor": "MÍNIMA",
+        "color": "verde",
+        "emoji": "🏬"
+      },
+      "capitulo": "Casi sin publicidad",
+      "nota": "publicidad sobre ventas, según estimaciones de analistas",
+      "texto": "Eso explica una de las rarezas más famosas de Zara: casi no hace publicidad. Según estimaciones de analistas, invierte en anuncios una fracción de lo que gastan sus competidores."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Las mejores esquinas",
+        "Vidrieras cuidadas",
+        "Novedades constantes"
+      ],
+      "texto": "¿Dónde pone esa plata? En las tiendas. Locales en las mejores esquinas de las ciudades, vidrieras cuidadas al detalle y novedades constantes. La tienda es el anuncio."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "LA TIENDA\nES EL ANUNCIO",
+      "tam": 13,
+      "color": "amarillo",
+      "texto": "Cada persona que entra a mirar qué hay de nuevo es una visita que no tuvo que comprar con publicidad. Y cada bolsa que sale a la calle es un cartel ambulante."
+    },
+    {
+      "tipo": "mapa",
+      "modo": "encender",
+      "grande": "AL MUNDO",
+      "rotulo": "DE A CORUÑA A TODO EL PLANETA",
+      "capitulo": "De A Coruña al mundo",
+      "texto": "Con ese modelo, Zara salió de Galicia, después de España, y se expandió por el mundo. Inditex sumó otras marcas y se convirtió en uno de los grupos de moda más grandes del planeta."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Zara",
+        "Pull&Bear",
+        "Massimo Dutti",
+        "Bershka",
+        "Stradivarius",
+        "Oysho",
+        "Zara Home"
+      ],
+      "texto": "Hoy el grupo reúne varias marcas que seguramente conocés: además de Zara, Pull and Bear, Massimo Dutti, Bershka, Stradivarius, Oysho y Zara Home. Todas comparten la misma lógica de fondo: cercanía, datos y velocidad."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🏢",
+      "rotulo": "ARTEIXO · GALICIA",
+      "texto": "Y lo hizo sin mudarse. El corazón de la empresa sigue en Galicia, cerca de A Coruña, a pocos kilómetros de donde aquel chico repartía camisas."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "LAS\nCRÍTICAS",
+      "tam": 16,
+      "capitulo": "La otra cara",
+      "texto": "Pero la historia tiene otra cara. La moda rápida, el modelo que Zara ayudó a popularizar, recibe críticas fuertes."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Impacto ambiental",
+        "Consumo excesivo",
+        "Condiciones en la cadena de producción"
+      ],
+      "texto": "Se le cuestiona el impacto ambiental de producir tanta ropa, el impulso a comprar más de lo que se necesita y las condiciones de trabajo en la cadena de producción de la industria."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "EL DESAFÍO\nQUE VIENE",
+      "tam": 13,
+      "texto": "Inditex anunció compromisos ambientales y programas para responder a esas críticas. Cómo combinar velocidad y sostenibilidad es, probablemente, el gran desafío de su próxima etapa."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "ESCUCHAR >\nADIVINAR",
+      "tam": 14,
+      "color": "amarillo",
+      "capitulo": "La lección",
+      "texto": "Más allá de la moda, la lección de Zara sirve para cualquier negocio. Durante décadas, la industria intentó adivinar el futuro. Zara decidió escuchar el presente."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "KODAK · BLOCKBUSTER",
+        "valor": "SE QUEDARON QUIETAS",
+        "color": "rojo"
+      },
+      "der": {
+        "titulo": "ZARA",
+        "valor": "SE MUEVE CADA SEMANA",
+        "color": "verde"
+      },
+      "texto": "En el canal vimos empresas que perdieron todo por quedarse quietas, como Kodak o Blockbuster. Zara es casi lo opuesto: una empresa construida para cambiar todas las semanas."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Acortar la distancia con el cliente",
+        "Decidir con datos, no con intuición",
+        "Arriesgar poco, pero muchas veces"
+      ],
+      "texto": "Acortar la distancia entre vos y tu cliente. Decidir con lo que pasa, no con lo que imaginás. Y arriesgar poco, pero muchas veces, en lugar de apostar todo a una sola jugada."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "👔",
+      "rotulo": "TODO EMPEZÓ CON UN REPARTO",
+      "texto": "Todo eso lo intuyó un chico que repartía camisas y vio, desde adentro, cuánto se perdía entre la fábrica y el cliente."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿COMPRÁS\nEN ZARA?",
+      "opciones": [
+        "SÍ",
+        "NO"
+      ],
+      "texto": "¿Y vos? ¿Comprás en Zara, o preferís marcas más lentas? Contame en los comentarios. Y si te gustó esta historia, mirá la de LEGO, la empresa que se salvó haciendo menos."
+    }
+  ]
+}

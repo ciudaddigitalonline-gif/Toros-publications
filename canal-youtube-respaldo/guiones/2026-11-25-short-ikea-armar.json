@@ -1,0 +1,86 @@
+{
+  "id": "2026-11-25-short-ikea-armar",
+  "formato": "short",
+  "titulo": "Por qué IKEA te hace armar los muebles",
+  "descripcion": "Una mesa que no entraba en un auto, una idea que bajó costos… y un efecto psicológico con nombre propio. #Shorts #historiasdenegocios #ikea #marketing #psicologia\n\nFuentes: IKEA (historia de los paquetes planos), IKEA Museum, Guinness World Records, Norton, Mochon y Ariely (2011) \"The IKEA Effect\".",
+  "etiquetas": [
+    "ikea",
+    "efecto ikea",
+    "muebles para armar",
+    "gillis lundgren",
+    "marketing",
+    "psicología del consumidor",
+    "historias de negocios"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-11-25T19:00:00",
+  "colores": {
+    "a": "#0058A3",
+    "b": "#FFDB00"
+  },
+  "miniatura": {
+    "texto": "POR QUÉ\nLO ARMÁS\nVOS",
+    "emoji": "🪛",
+    "fondo": "#0058A3",
+    "tam": 120
+  },
+  "escenas": [
+    {
+      "tipo": "objeto",
+      "emoji": "📦",
+      "rotulo": "ARMALO VOS",
+      "texto": "¿Por qué IKEA te hace armar los muebles? Hay dos razones, y la segunda es psicología pura."
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "SUECIA · 1956",
+      "grande": "UNA MESA\nQUE NO ENTRABA",
+      "tam": 13,
+      "texto": "La historia que cuenta IKEA: en 1956, un empleado, Gillis Lundgren, no podía meter una mesa en su auto.",
+      "texto_voz": "La historia que cuenta IKEA: en mil novecientos cincuenta y seis, un empleado, Gillis Lundgren, no podía meter una mesa en su auto."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🪚",
+      "rotulo": "LE SACÓ LAS PATAS",
+      "texto": "Así que le sacó las patas. Y la idea se convirtió en la filosofía de la empresa: muebles en paquetes planos."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Menos espacio en camiones",
+        "Menos espacio en depósitos",
+        "Precios más bajos"
+      ],
+      "texto": "Razón número uno: plata. Un paquete plano ocupa menos en camiones y depósitos, y el mueble sale más barato."
+    },
+    {
+      "tipo": "numero",
+      "desde": 0,
+      "hasta": 63,
+      "prefijo": "+",
+      "sufijo": "%",
+      "puntos": false,
+      "rotulo": "MÁS ESTÁN DISPUESTOS A PAGAR",
+      "texto": "Razón número dos: en un estudio de 2011, quienes armaron su propia caja de IKEA estaban dispuestos a pagar un 63% más que por una igual ya armada.",
+      "texto_voz": "Razón número dos: en un estudio de dos mil once, quienes armaron su propia caja de IKEA estaban dispuestos a pagar un sesenta y tres por ciento más que por una igual ya armada."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "EFECTO\nIKEA",
+      "tam": 18,
+      "color": "amarillo",
+      "nota": "Norton, Mochon y Ariely, 2011",
+      "texto": "Los investigadores lo llamaron efecto IKEA: lo que armás vos, lo valorás más."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿TE PASA?",
+      "opciones": [
+        "SÍ",
+        "NO"
+      ],
+      "texto": "¿A vos te pasa? Seguí para más historias Detrás de la Marca."
+    }
+  ]
+}

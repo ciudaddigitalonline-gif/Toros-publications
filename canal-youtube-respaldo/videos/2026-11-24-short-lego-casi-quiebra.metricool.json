@@ -1,0 +1,35 @@
+{
+  "blogId": "COMPLETAR",
+  "info": {
+    "providers": [
+      {
+        "network": "youtube"
+      }
+    ],
+    "text": "A comienzos de los 2000, LEGO perdía plata y su propio director avisó que la empresa podía desaparecer. Cómo se salvó, en el video completo del canal. #Shorts #historiasdenegocios #lego #quiebras\n\nFuentes: Entrepreneur / Business Insider, Reuters (NZ Herald), informe anual de LEGO 2003.",
+    "media": [
+      "(subir 2026-11-24-short-lego-casi-quiebra-sin-voz.mp4 y completar la URL pública)"
+    ],
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-24T19:00:00",
+      "timezone": "Europe/Madrid"
+    },
+    "youtubeData": {
+      "title": "LEGO estuvo a punto de quebrar",
+      "type": "short",
+      "privacy": "public",
+      "tags": [
+        "lego",
+        "lego casi quiebra",
+        "historia de lego",
+        "knudstorp",
+        "historias de negocios",
+        "emprendimiento"
+      ],
+      "category": "EDUCATION",
+      "madeForKids": false,
+      "isAiGeneratedContent": false
+    }
+  }
+}

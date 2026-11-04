@@ -1,0 +1,35 @@
+{
+  "blogId": "COMPLETAR",
+  "info": {
+    "providers": [
+      {
+        "network": "youtube"
+      }
+    ],
+    "text": "Antes de los celulares y los televisores, Samsung era una pequeña empresa de comercio en Daegu, Corea, que vendía alimentos. #Shorts #historiasdenegocios #samsung #marcas #emprendimiento\n\nFuentes: Wikipedia (Samsung; Lee Byung-chul), Quartr.",
+    "media": [
+      "(subir 2026-11-23-short-samsung-sin-voz.mp4 y completar la URL pública)"
+    ],
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-23T19:00:00",
+      "timezone": "Europe/Madrid"
+    },
+    "youtubeData": {
+      "title": "Samsung empezó vendiendo pescado seco",
+      "type": "short",
+      "privacy": "public",
+      "tags": [
+        "samsung",
+        "historia de samsung",
+        "lee byung-chul",
+        "samsung pescado seco",
+        "historias de negocios",
+        "marcas"
+      ],
+      "category": "EDUCATION",
+      "madeForKids": false,
+      "isAiGeneratedContent": false
+    }
+  }
+}

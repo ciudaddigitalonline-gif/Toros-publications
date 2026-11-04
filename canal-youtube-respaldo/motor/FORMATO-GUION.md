@@ -27,6 +27,7 @@ Cada video es un archivo JSON. El motor (`motor/producir.js`) lo convierte en MP
 | `tipo` | Uno de los tipos de abajo. |
 | `etiqueta` | Píldora arriba de la escena ("DALLAS · 2000"). `etiqueta_color`: `a`, `b`, `amarillo`, `rojo`, `verde` o un color. |
 | `sello` | `{ "texto": "QUIEBRA", "en": 0.8, "y": 0.86 }` sello rojo que cae en el momento `en` (fracción de la escena), a la altura `y`. |
+| `capitulo` | Solo videos largos: título del capítulo que empieza en esta escena. La primera escena debe tenerlo. La descripción usa `{{CAPITULOS}}` y el motor pone las marcas de tiempo reales. |
 | `nota` | Aclaración chica al pie ("según Marc Randolph"). Usarla cada vez que un dato es una versión y no un hecho confirmado. |
 
 ## Tipos de escena

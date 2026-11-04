@@ -1,0 +1,101 @@
+{
+  "id": "2026-11-23-short-samsung",
+  "formato": "short",
+  "titulo": "Samsung empezó vendiendo pescado seco",
+  "descripcion": "Antes de los celulares y los televisores, Samsung era una pequeña empresa de comercio en Daegu, Corea, que vendía alimentos. #Shorts #historiasdenegocios #samsung #marcas #emprendimiento\n\nFuentes: Wikipedia (Samsung; Lee Byung-chul), Quartr.",
+  "etiquetas": [
+    "samsung",
+    "historia de samsung",
+    "lee byung-chul",
+    "samsung pescado seco",
+    "historias de negocios",
+    "marcas"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-11-23T19:00:00",
+  "colores": {
+    "a": "#1428A0",
+    "b": "#F4EBDD"
+  },
+  "miniatura": {
+    "texto": "EMPEZÓ\nCON ESTO",
+    "emoji": "🐟",
+    "fondo": "#1428A0",
+    "sub": "SAMSUNG · 1938"
+  },
+  "escenas": [
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "HOY",
+        "valor": "📱📺",
+        "color": "a"
+      },
+      "der": {
+        "titulo": "1938",
+        "valor": "🐟🍜",
+        "color": "amarillo"
+      },
+      "texto": "Antes de los celulares y los televisores, Samsung vendía… pescado seco."
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "DAEGU · COREA",
+      "grande": "1938",
+      "tam": 22,
+      "sub": "UNA EMPRESA DE COMERCIO",
+      "texto": "En 1938, Lee Byung-chul abrió una pequeña empresa de comercio en Daegu, Corea.",
+      "texto_voz": "En mil novecientos treinta y ocho, Lee Byung-chul abrió una pequeña empresa de comercio en Daegu, Corea."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Pescado seco",
+        "Verduras",
+        "Fideos"
+      ],
+      "nota": "según la historia más difundida de la empresa",
+      "texto": "Vendía alimentos: pescado seco, verduras y fideos, que enviaba a otras ciudades de la región."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "⭐⭐⭐",
+      "rotulo": "SAMSUNG = TRES ESTRELLAS",
+      "texto": "El nombre ya mostraba su ambición: Samsung significa tres estrellas. Tres, por grande y poderoso. Estrellas, por algo que dura para siempre."
+    },
+    {
+      "tipo": "linea_tiempo",
+      "hitos": [
+        {
+          "anio": "1938",
+          "rotulo": "ALIMENTOS",
+          "icono": "🐟",
+          "color": "amarillo"
+        },
+        {
+          "anio": "1969",
+          "rotulo": "ELECTRÓNICA",
+          "icono": "📺",
+          "color": "a"
+        },
+        {
+          "anio": "HOY",
+          "rotulo": "GIGANTE",
+          "icono": "📱",
+          "color": "verde"
+        }
+      ],
+      "texto": "Después vinieron seguros, textiles y, en 1969, la electrónica. El resto es historia.",
+      "texto_voz": "Después vinieron seguros, textiles y, en mil novecientos sesenta y nueve, la electrónica. El resto es historia."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿LO\nSABÍAS?",
+      "opciones": [
+        "SÍ",
+        "NO"
+      ],
+      "texto": "¿Lo sabías? Seguí para más historias Detrás de la Marca."
+    }
+  ]
+}

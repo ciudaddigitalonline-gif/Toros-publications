@@ -1,0 +1,79 @@
+{
+  "id": "2026-12-02-short-lamborghini-tractores",
+  "formato": "short",
+  "titulo": "Lamborghini fabricaba tractores",
+  "descripcion": "Antes de los superautos, Ferruccio Lamborghini fabricaba tractores. Y según cuenta la historia, una discusión con Enzo Ferrari lo cambió todo. #Shorts #historiasdenegocios #lamborghini #ferrari\n\nFuentes: Jalopnik, The New European, Lambocars (investigación de MotorTrend sobre el mito).",
+  "etiquetas": [
+    "lamborghini",
+    "ferrari",
+    "lamborghini tractores",
+    "ferruccio lamborghini",
+    "enzo ferrari",
+    "historias de negocios"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-12-02T19:00:00",
+  "colores": {
+    "a": "#DDB321",
+    "b": "#D40000"
+  },
+  "miniatura": {
+    "texto": "TRACTOR\nVS\nFERRARI",
+    "emoji": "🚜",
+    "fondo": "#DDB321",
+    "tam": 120
+  },
+  "escenas": [
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "LAMBORGHINI",
+        "valor": "🚜",
+        "color": "a"
+      },
+      "der": {
+        "titulo": "FERRARI",
+        "valor": "🏎️",
+        "color": "b"
+      },
+      "texto": "Lamborghini empezó fabricando tractores. Y según cuenta la historia, todo cambió por una pelea con Ferrari."
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "ITALIA · POSGUERRA",
+      "grande": "LAMBORGHINI\nTRATTORI",
+      "tam": 12,
+      "texto": "Después de la guerra, Ferruccio Lamborghini armó una fábrica de tractores. Le fue muy bien, y se compró varios autos deportivos, entre ellos Ferraris."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "⚙️",
+      "rotulo": "EL EMBRAGUE",
+      "texto": "La versión más contada dice que su Ferrari tenía problemas de embrague. Y que, al revisarlo, descubrió que la pieza se parecía a la de sus tractores."
+    },
+    {
+      "tipo": "cita",
+      "texto_cita": "Vos dedicate a los tractores.",
+      "autor": "frase atribuida a Enzo Ferrari",
+      "nota": "versión popular, no documentada",
+      "texto": "Fue a quejarse con Enzo Ferrari, y según la leyenda, Ferrari le contestó que se dedicara a los tractores."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "1963",
+      "tam": 24,
+      "sub": "AUTOMOBILI LAMBORGHINI",
+      "texto": "Sea cual sea la versión exacta, en 1963 Lamborghini fundó su propia fábrica de autos, para competir de frente con Ferrari.",
+      "texto_voz": "Sea cual sea la versión exacta, en mil novecientos sesenta y tres Lamborghini fundó su propia fábrica de autos, para competir de frente con Ferrari."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿FERRARI O\nLAMBORGHINI?",
+      "opciones": [
+        "FERRARI",
+        "LAMBO"
+      ],
+      "texto": "¿Vos de qué equipo sos? Contame en los comentarios y seguí para más historias."
+    }
+  ]
+}

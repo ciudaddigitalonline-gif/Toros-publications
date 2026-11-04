@@ -1,0 +1,35 @@
+{
+  "blogId": "COMPLETAR",
+  "info": {
+    "providers": [
+      {
+        "network": "youtube"
+      }
+    ],
+    "text": "El nombre de WD-40 cuenta su propia historia: una fórmula que funcionó recién en el intento número 40. #Shorts #historiasdenegocios #wd40 #marcas\n\nFuentes: WD-40 Company (historia oficial), Encyclopedia.com, Wikipedia.",
+    "media": [
+      "(subir 2026-11-27-short-wd40-sin-voz.mp4 y completar la URL pública)"
+    ],
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-27T19:00:00",
+      "timezone": "Europe/Madrid"
+    },
+    "youtubeData": {
+      "title": "WD-40: por qué se llama así",
+      "type": "short",
+      "privacy": "public",
+      "tags": [
+        "wd-40",
+        "wd40",
+        "historia de wd-40",
+        "por qué se llama wd-40",
+        "historias de negocios",
+        "marcas"
+      ],
+      "category": "EDUCATION",
+      "madeForKids": false,
+      "isAiGeneratedContent": false
+    }
+  }
+}

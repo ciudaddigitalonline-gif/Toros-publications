@@ -1,0 +1,35 @@
+{
+  "blogId": "COMPLETAR",
+  "info": {
+    "providers": [
+      {
+        "network": "youtube"
+      }
+    ],
+    "text": "LEGO casi quiebra por querer hacer de todo. La solución fue hacer menos. Historia completa en el canal. #Shorts #historiasdenegocios #lego #estrategia\n\nFuentes: Entrepreneur / Business Insider, Reuters (NZ Herald), GlobeSt, PlasticsToday.",
+    "media": [
+      "(subir 2026-11-28-short-lego-error-sin-voz.mp4 y completar la URL pública)"
+    ],
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-28T19:00:00",
+      "timezone": "Europe/Madrid"
+    },
+    "youtubeData": {
+      "title": "El error que casi hunde a LEGO",
+      "type": "short",
+      "privacy": "public",
+      "tags": [
+        "lego",
+        "error de lego",
+        "galidor",
+        "historia de lego",
+        "estrategia",
+        "historias de negocios"
+      ],
+      "category": "EDUCATION",
+      "madeForKids": false,
+      "isAiGeneratedContent": false
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "blogId": "COMPLETAR",
+  "info": {
+    "providers": [
+      {
+        "network": "youtube"
+      }
+    ],
+    "text": "Después de la Segunda Guerra Mundial el cacao era escaso y caro. Un pastelero italiano lo estiró con avellanas… y nació la Nutella. #Shorts #historiasdenegocios #nutella #ferrero #marcas\n\nFuentes: Nutella (historia oficial), Wikipedia (Pietro Ferrero), Food Republic.",
+    "media": [
+      "(subir 2026-12-04-short-nutella-cacao-sin-voz.mp4 y completar la URL pública)"
+    ],
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-12-04T19:00:00",
+      "timezone": "Europe/Madrid"
+    },
+    "youtubeData": {
+      "title": "Nutella nació porque faltaba cacao",
+      "type": "short",
+      "privacy": "public",
+      "tags": [
+        "nutella",
+        "historia de nutella",
+        "ferrero",
+        "pietro ferrero",
+        "gianduja",
+        "historias de negocios"
+      ],
+      "category": "EDUCATION",
+      "madeForKids": false,
+      "isAiGeneratedContent": false
+    }
+  }
+}

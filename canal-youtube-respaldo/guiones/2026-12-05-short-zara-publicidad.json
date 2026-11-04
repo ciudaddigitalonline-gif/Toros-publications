@@ -1,0 +1,87 @@
+{
+  "id": "2026-12-05-short-zara-publicidad",
+  "formato": "short",
+  "relacionado": "2026-12-03-largo-zara",
+  "titulo": "Por qué Zara casi no hace publicidad",
+  "descripcion": "Mientras sus rivales gastan fortunas en publicidad, Zara pone la plata en otro lado. Historia completa de Zara en el canal. #Shorts #historiasdenegocios #zara #marketing\n\nFuentes: análisis de Advergize y casos de estudio sobre Zara; Georgetown McDonough; Apparel Resources.",
+  "etiquetas": [
+    "zara",
+    "zara publicidad",
+    "marketing de zara",
+    "inditex",
+    "fast fashion",
+    "marketing",
+    "historias de negocios"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-12-05T19:00:00",
+  "colores": {
+    "a": "#8A7F72",
+    "b": "#E8E2D6"
+  },
+  "miniatura": {
+    "texto": "SIN\nPUBLICIDAD",
+    "emoji": "📢",
+    "fondo": "#E8E2D6",
+    "sub": "¿CÓMO VENDE ZARA?"
+  },
+  "escenas": [
+    {
+      "tipo": "objeto",
+      "emoji": "📢",
+      "rotulo": "CASI SIN ANUNCIOS",
+      "sello": {
+        "texto": "¿Y ENTONCES?",
+        "en": 0.65,
+        "y": 0.78
+      },
+      "texto": "Zara es una de las marcas de ropa más grandes del mundo… y casi no hace publicidad."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "RIVALES",
+        "valor": "ALTO",
+        "color": "rojo",
+        "emoji": "📺"
+      },
+      "der": {
+        "titulo": "ZARA",
+        "valor": "MÍNIMO",
+        "color": "verde",
+        "emoji": "🏬"
+      },
+      "nota": "gasto en publicidad sobre ventas, según estimaciones de analistas",
+      "texto": "Según estimaciones de analistas, gasta en publicidad una fracción de lo que gastan sus competidores."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Tiendas en las mejores esquinas",
+        "Vidrieras como anuncios",
+        "Ropa nueva cada semana"
+      ],
+      "texto": "Su anuncio son las tiendas: en las mejores esquinas, con vidrieras cuidadas al detalle, y con ropa nueva que llega varias veces por semana."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "SI TE GUSTA,\nLLEVALO HOY",
+      "tam": 12,
+      "color": "amarillo",
+      "texto": "Y como fabrica tandas chicas que se renuevan rápido, el mensaje es claro: si te gusta, llevalo hoy, porque la semana que viene puede no estar."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🔁",
+      "rotulo": "VOLVÉS SEGUIDO",
+      "texto": "Eso hace que la gente vuelva seguido a ver qué hay de nuevo. Cada visita es publicidad que no tuvo que pagar."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "LA TIENDA\nES EL ANUNCIO",
+      "tam": 13,
+      "sub": "HISTORIA COMPLETA EN EL CANAL",
+      "texto": "La tienda es el anuncio. La historia completa de Zara está en el canal."
+    }
+  ]
+}

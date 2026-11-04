@@ -1,0 +1,36 @@
+{
+  "blogId": "COMPLETAR",
+  "info": {
+    "providers": [
+      {
+        "network": "youtube"
+      }
+    ],
+    "text": "Mientras sus rivales gastan fortunas en publicidad, Zara pone la plata en otro lado. Historia completa de Zara en el canal. #Shorts #historiasdenegocios #zara #marketing\n\nFuentes: análisis de Advergize y casos de estudio sobre Zara; Georgetown McDonough; Apparel Resources.",
+    "media": [
+      "(subir 2026-12-05-short-zara-publicidad-sin-voz.mp4 y completar la URL pública)"
+    ],
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-12-05T19:00:00",
+      "timezone": "Europe/Madrid"
+    },
+    "youtubeData": {
+      "title": "Por qué Zara casi no hace publicidad",
+      "type": "short",
+      "privacy": "public",
+      "tags": [
+        "zara",
+        "zara publicidad",
+        "marketing de zara",
+        "inditex",
+        "fast fashion",
+        "marketing",
+        "historias de negocios"
+      ],
+      "category": "EDUCATION",
+      "madeForKids": false,
+      "isAiGeneratedContent": false
+    }
+  }
+}

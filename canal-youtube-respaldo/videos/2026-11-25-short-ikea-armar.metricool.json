@@ -1,0 +1,36 @@
+{
+  "blogId": "COMPLETAR",
+  "info": {
+    "providers": [
+      {
+        "network": "youtube"
+      }
+    ],
+    "text": "Una mesa que no entraba en un auto, una idea que bajó costos… y un efecto psicológico con nombre propio. #Shorts #historiasdenegocios #ikea #marketing #psicologia\n\nFuentes: IKEA (historia de los paquetes planos), IKEA Museum, Guinness World Records, Norton, Mochon y Ariely (2011) \"The IKEA Effect\".",
+    "media": [
+      "(subir 2026-11-25-short-ikea-armar-sin-voz.mp4 y completar la URL pública)"
+    ],
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-25T19:00:00",
+      "timezone": "Europe/Madrid"
+    },
+    "youtubeData": {
+      "title": "Por qué IKEA te hace armar los muebles",
+      "type": "short",
+      "privacy": "public",
+      "tags": [
+        "ikea",
+        "efecto ikea",
+        "muebles para armar",
+        "gillis lundgren",
+        "marketing",
+        "psicología del consumidor",
+        "historias de negocios"
+      ],
+      "category": "EDUCATION",
+      "madeForKids": false,
+      "isAiGeneratedContent": false
+    }
+  }
+}

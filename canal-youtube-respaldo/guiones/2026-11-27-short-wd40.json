@@ -1,0 +1,107 @@
+{
+  "id": "2026-11-27-short-wd40",
+  "formato": "short",
+  "titulo": "WD-40: por qué se llama así",
+  "descripcion": "El nombre de WD-40 cuenta su propia historia: una fórmula que funcionó recién en el intento número 40. #Shorts #historiasdenegocios #wd40 #marcas\n\nFuentes: WD-40 Company (historia oficial), Encyclopedia.com, Wikipedia.",
+  "etiquetas": [
+    "wd-40",
+    "wd40",
+    "historia de wd-40",
+    "por qué se llama wd-40",
+    "historias de negocios",
+    "marcas"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-11-27T19:00:00",
+  "colores": {
+    "a": "#1D4F91",
+    "b": "#FFD100"
+  },
+  "miniatura": {
+    "texto": "INTENTO\nN.º 40",
+    "emoji": "🧪",
+    "fondo": "#FFD100",
+    "sub": "WD-40"
+  },
+  "escenas": [
+    {
+      "tipo": "titulo",
+      "grande": "WD-40",
+      "tam": 26,
+      "color": "amarillo",
+      "texto": "WD-40. ¿Alguna vez te preguntaste qué significa el nombre?",
+      "texto_voz": "WD cuarenta. ¿Alguna vez te preguntaste qué significa el nombre?"
+    },
+    {
+      "tipo": "titulo",
+      "etiqueta": "SAN DIEGO · 1953",
+      "grande": "ROCKET\nCHEMICAL",
+      "tam": 15,
+      "texto": "En 1953, tres socios fundaron en San Diego una pequeña empresa: Rocket Chemical Company.",
+      "texto_voz": "En mil novecientos cincuenta y tres, tres socios fundaron en San Diego una pequeña empresa: Rocket Chemical Company."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🚀",
+      "rotulo": "PROTEGER CONTRA EL ÓXIDO",
+      "texto": "Buscaban un producto para proteger del óxido y la humedad a la industria aeroespacial, incluidos los misiles Atlas."
+    },
+    {
+      "tipo": "numero",
+      "desde": 1,
+      "hasta": 40,
+      "prefijo": "INTENTO ",
+      "puntos": false,
+      "rotulo": "FÓRMULAS PROBADAS",
+      "texto": "Probaron fórmula tras fórmula. Según la empresa, la que funcionó fue la número 40.",
+      "texto_voz": "Probaron fórmula tras fórmula. Según la empresa, la que funcionó fue la número cuarenta."
+    },
+    {
+      "tipo": "comparacion",
+      "izq": {
+        "titulo": "WATER DISPLACEMENT",
+        "valor": "WD",
+        "color": "a"
+      },
+      "der": {
+        "titulo": "FÓRMULA",
+        "valor": "40",
+        "color": "amarillo"
+      },
+      "texto": "WD viene de water displacement, desplazar el agua en inglés. Y 40, por el intento número 40.",
+      "texto_voz": "WD viene de water displacement, desplazar el agua en inglés. Y cuarenta, por el intento número cuarenta."
+    },
+    {
+      "tipo": "linea_tiempo",
+      "hitos": [
+        {
+          "anio": "1953",
+          "rotulo": "LA FÓRMULA",
+          "icono": "🧪",
+          "color": "a"
+        },
+        {
+          "anio": "1958",
+          "rotulo": "A LOS NEGOCIOS",
+          "icono": "🛒",
+          "color": "amarillo"
+        },
+        {
+          "anio": "1969",
+          "rotulo": "NUEVO NOMBRE",
+          "icono": "🏷️",
+          "color": "verde"
+        }
+      ],
+      "texto": "En 1958 llegó a los negocios. Y en 1969 la empresa tomó el nombre de su único producto: WD-40.",
+      "texto_voz": "En mil novecientos cincuenta y ocho llegó a los negocios. Y en mil novecientos sesenta y nueve la empresa tomó el nombre de su único producto: WD cuarenta."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "39 FRACASOS",
+      "tam": 15,
+      "sub": "ANTES DEL ÉXITO",
+      "texto": "Treinta y nueve fracasos antes del éxito. Seguí para más historias Detrás de la Marca."
+    }
+  ]
+}

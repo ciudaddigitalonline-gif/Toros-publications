@@ -1,0 +1,35 @@
+{
+  "blogId": "COMPLETAR",
+  "info": {
+    "providers": [
+      {
+        "network": "youtube"
+      }
+    ],
+    "text": "Antes de los superautos, Ferruccio Lamborghini fabricaba tractores. Y según cuenta la historia, una discusión con Enzo Ferrari lo cambió todo. #Shorts #historiasdenegocios #lamborghini #ferrari\n\nFuentes: Jalopnik, The New European, Lambocars (investigación de MotorTrend sobre el mito).",
+    "media": [
+      "(subir 2026-12-02-short-lamborghini-tractores-sin-voz.mp4 y completar la URL pública)"
+    ],
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-12-02T19:00:00",
+      "timezone": "Europe/Madrid"
+    },
+    "youtubeData": {
+      "title": "Lamborghini fabricaba tractores",
+      "type": "short",
+      "privacy": "public",
+      "tags": [
+        "lamborghini",
+        "ferrari",
+        "lamborghini tractores",
+        "ferruccio lamborghini",
+        "enzo ferrari",
+        "historias de negocios"
+      ],
+      "category": "EDUCATION",
+      "madeForKids": false,
+      "isAiGeneratedContent": false
+    }
+  }
+}

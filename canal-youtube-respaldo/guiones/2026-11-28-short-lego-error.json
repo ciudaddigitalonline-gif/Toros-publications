@@ -1,0 +1,81 @@
+{
+  "id": "2026-11-28-short-lego-error",
+  "formato": "short",
+  "relacionado": "2026-11-26-largo-lego",
+  "titulo": "El error que casi hunde a LEGO",
+  "descripcion": "LEGO casi quiebra por querer hacer de todo. La solución fue hacer menos. Historia completa en el canal. #Shorts #historiasdenegocios #lego #estrategia\n\nFuentes: Entrepreneur / Business Insider, Reuters (NZ Herald), GlobeSt, PlasticsToday.",
+  "etiquetas": [
+    "lego",
+    "error de lego",
+    "galidor",
+    "historia de lego",
+    "estrategia",
+    "historias de negocios"
+  ],
+  "categoria": "EDUCATION",
+  "fecha_publicacion": "2026-11-28T19:00:00",
+  "colores": {
+    "a": "#D01012",
+    "b": "#F6C400"
+  },
+  "miniatura": {
+    "texto": "HACER\nMENOS",
+    "emoji": "🧱",
+    "fondo": "#F6C400",
+    "sub": "EL ERROR DE LEGO"
+  },
+  "escenas": [
+    {
+      "tipo": "titulo",
+      "grande": "EL ERROR\nDE LEGO",
+      "tam": 16,
+      "color": "amarillo",
+      "texto": "El error que casi hunde a LEGO fue querer hacer de todo."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Parques temáticos",
+        "Videojuegos",
+        "Ropa",
+        "Series de TV"
+      ],
+      "texto": "A fines de los 90 y comienzos de los 2000 se metió en parques, videojuegos, ropa y series de televisión.",
+      "texto_voz": "A fines de los noventa y comienzos de los dos mil se metió en parques, videojuegos, ropa y series de televisión."
+    },
+    {
+      "tipo": "objeto",
+      "emoji": "🤖",
+      "rotulo": "GALIDOR",
+      "nota": "lo consideran uno de sus mayores fracasos",
+      "texto": "Hasta lanzó Galidor, figuras de acción con su propia serie de TV. Dentro de LEGO lo consideran uno de sus mayores fracasos."
+    },
+    {
+      "tipo": "numero",
+      "desde": 0,
+      "hasta": 13000,
+      "prefijo": "≈",
+      "puntos": false,
+      "rotulo": "PIEZAS DISTINTAS",
+      "texto": "Y cada set traía piezas nuevas: llegó a fabricar casi 13.000 piezas diferentes. Carísimo de producir.",
+      "texto_voz": "Y cada set traía piezas nuevas: llegó a fabricar casi trece mil piezas diferentes. Carísimo de producir."
+    },
+    {
+      "tipo": "lista",
+      "items": [
+        "Vendió los parques (2005)",
+        "Casi la mitad de piezas",
+        "Volvió al ladrillo"
+      ],
+      "texto": "La solución fue hacer menos: vendió los parques en 2005, recortó casi a la mitad las piezas y volvió al ladrillo.",
+      "texto_voz": "La solución fue hacer menos: vendió los parques en dos mil cinco, recortó casi a la mitad las piezas y volvió al ladrillo."
+    },
+    {
+      "tipo": "titulo",
+      "grande": "MENOS\nES MÁS",
+      "tam": 18,
+      "sub": "HISTORIA COMPLETA EN EL CANAL",
+      "texto": "A veces, crecer es hacer menos. La historia completa de LEGO está en el canal."
+    }
+  ]
+}

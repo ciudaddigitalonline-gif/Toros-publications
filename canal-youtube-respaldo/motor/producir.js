@@ -86,9 +86,10 @@ async function animar(timing) {
     const p = await navegador.newPage({ viewport: corto ? { width: 1080, height: 1920 } : { width: 1920, height: 1080 }, deviceScaleFactor: 1 });
     await p.goto(html); await p.evaluate(() => document.fonts.ready);
     const total = await p.evaluate(([g, t]) => init(g, t), [guion, timing]);
-    return { p, total };
+    const usado = await p.evaluate(() => window.TIMING_USED);
+    return { p, total, usado };
   };
-  const { total } = await abrir().then(async o => { await o.p.close(); return o; });
+  const { total, usado } = await abrir().then(async o => { await o.p.close(); return o; });
   const frames = Math.ceil(total * fps), N = Math.min(4, os.cpus().length), tramo = Math.ceil(frames / N);
   log(`animación: ${total.toFixed(1)} s, ${frames} cuadros, ${N} tramos en paralelo`);
   const partes = await Promise.all([...Array(N)].map(async (_, k) => {
@@ -110,7 +111,7 @@ async function animar(timing) {
   await tp.goto(html); await tp.evaluate(() => document.fonts.ready); await tp.evaluate(g => thumb(g), guion);
   const mini = path.join(salida, `${id}-miniatura.jpg`); await tp.screenshot({ path: mini, type: 'jpeg', quality: 92 });
   await navegador.close();
-  return { mudo, total, mini };
+  return { mudo, total, mini, usado };
 }
 
 // ---------- 3. Mezcla ----------
@@ -137,12 +138,18 @@ function mezclar(mudo, total, vozWav) {
 }
 
 // ---------- 4. Datos para Metricool ----------
-function datosMetricool(mp4, mini) {
+function capitulos(usado) {
+  const mmss = t => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}`;
+  const caps = guion.escenas.map((s, i) => s.capitulo ? `${mmss(i === 0 ? 0 : usado[i].start)} ${s.capitulo}` : null).filter(Boolean);
+  return caps.join('\n');
+}
+
+function datosMetricool(mp4, mini, usado) {
   const base = canal.publicacion?.url_base; // p. ej. https://raw.githubusercontent.com/<usuario>/<repo>/main/videos/
   const url = f => base ? base.replace(/\/?$/, '/') + path.basename(f) : `(subir ${path.basename(f)} y completar la URL pública)`;
   const info = {
     providers: [{ network: 'youtube' }],
-    text: guion.descripcion || '',
+    text: (guion.descripcion || '').replace('{{CAPITULOS}}', capitulos(usado)),
     media: [url(mp4)],
     autoPublish: true,
     publicationDate: { dateTime: guion.fecha_publicacion || '', timezone: canal.publicacion?.zona || 'Europe/Madrid' },
@@ -161,9 +168,9 @@ function datosMetricool(mp4, mini) {
 (async () => {
   const t0 = Date.now();
   const v = await voz();
-  const { mudo, total, mini } = await animar(v?.timing || null);
+  const { mudo, total, mini, usado } = await animar(v?.timing || null);
   const mp4 = mezclar(mudo, total, v?.vozWav);
-  const meta = datosMetricool(mp4, mini);
+  const meta = datosMetricool(mp4, mini, usado);
   fs.rmSync(tmp, { recursive: true, force: true });
   log(`listo en ${((Date.now() - t0) / 1000).toFixed(0)} s`);
   console.log(JSON.stringify({ video: mp4, miniatura: mini, metricool: meta, duracion: Number(total.toFixed(1)) }));
