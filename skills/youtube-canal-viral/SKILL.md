@@ -9,6 +9,17 @@ Usar cuando el usuario quiera arrancar o hacer crecer un canal de YouTube propio
 
 Objetivo: llegar al Programa de Socios de YouTube (YPP) con contenido **original** que YouTube acepte monetizar, no solo sumar vistas.
 
+## 0. Modo automático (si existe el repositorio de producción)
+Si en la sesión está el repositorio de producción del canal (tiene `config/canal.json`, `motor/producir.js` y `SEMANA.md`), trabajar con él en lugar de entregar solo textos:
+- **Ficha del canal**: está en `config/canal.json`. No volver a preguntarla.
+- **Tendencias**: `node investigacion/tendencias.js` (requiere `YOUTUBE_API_KEY`). Usar el multiplicador (vistas ÷ suscriptores) como señal de tema ganador. Nunca descargar ni reutilizar esos videos.
+- **Guiones**: escribirlos como JSON según `motor/FORMATO-GUION.md`, con cada dato verificado por búsqueda web y las fuentes en la descripción.
+- **Video**: `node motor/producir.js guiones/<id>.json` genera MP4, miniatura y `videos/<id>.metricool.json`. Sin `ELEVENLABS_API_KEY` sale una versión sin voz: decirlo, no presentarla como final.
+- **Control de calidad**: extraer 3 cuadros de cada video con ffmpeg y mirarlos antes de subir.
+- **Publicación**: push de `videos/` al repositorio público y programación en Metricool con `videos/<id>.metricool.json`, en la marca de `metricool.blogId` (nunca la de Toro's, 7373783). Si `requiere_aprobacion` es true, mandar a revisión o como borrador.
+- **Ciclo semanal**: seguir `SEMANA.md` paso a paso.
+- Si falta una clave, un permiso de red o la conexión del canal, no simular el resultado: avanzar con lo que se pueda y avisar exactamente qué falta y dónde se configura.
+
 ## 1. Primera vez: ficha del canal
 Si todavía no hay una ficha del canal en la conversación o en el proyecto, preguntar antes de producir nada (pocas preguntas, todas juntas):
 - Nicho o temas que le interesan y que puede sostener 6 meses o más.
