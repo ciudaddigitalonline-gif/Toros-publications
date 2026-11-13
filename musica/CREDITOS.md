@@ -15,3 +15,8 @@
 | reel-viernes-20-nov-m3 | 72.79 |
 | reel-sabado-21-nov-m3 | 118.00 |
 | reel-domingo-22-nov-m3 | 177.00 |
+| reel-lunes-23-nov | 47.21 |
+| reel-miercoles-25-nov | 96.39 |
+| reel-viernes-27-nov | 145.57 |
+| reel-sabado-28-nov | 214.43 |
+| reel-domingo-29-nov | 255.74 |
