@@ -20,3 +20,4 @@
 | reel-viernes-27-nov | 145.57 |
 | reel-sabado-28-nov | 214.43 |
 | reel-domingo-29-nov | 255.74 |
+| reel-sorteo-23-nov | 196.72 |
