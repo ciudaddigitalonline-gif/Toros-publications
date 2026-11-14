@@ -27,3 +27,9 @@
 | reel-sabado-5-dic | 159.34 |
 | reel-domingo-6-dic | 228.2 |
 | reel-sorteo-30-nov | 275.41 |
+| reel-lunes-7-dic (Maillard) | 57.05 |
+| reel-sorteo-7-dic | 240.0 |
+| reel-miercoles-9-dic | 287.21 |
+| reel-viernes-11-dic | 31.47 (repetido) |
+| reel-sabado-12-dic | 118.0 (repetido) |
+| reel-domingo-13-dic | 177.0 (repetido) |
