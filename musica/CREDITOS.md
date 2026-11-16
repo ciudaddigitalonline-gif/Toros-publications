@@ -30,6 +30,6 @@
 | reel-lunes-7-dic (Maillard) | 57.05 |
 | reel-sorteo-7-dic | 240.0 |
 | reel-miercoles-9-dic | 287.21 |
-| reel-viernes-11-dic | 31.47 (repetido) |
-| reel-sabado-12-dic | 118.0 (repetido) |
-| reel-domingo-13-dic | 177.0 (repetido) |
+| reel-viernes-11-dic-m2 | 107.0 |
+| reel-sabado-12-dic-m2 | 187.0 |
+| reel-domingo-13-dic-m2 | 265.9 |
