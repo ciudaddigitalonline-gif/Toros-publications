@@ -44,3 +44,9 @@
 ### Tramos ya usados (segundos de inicio)
 | Reel | Inicio |
 |---|---|
+| reel-lunes-14-dic | 30.0 |
+| reel-sorteo-14-dic | 60.0 |
+| reel-miercoles-16-dic | 95.0 |
+| reel-viernes-18-dic | 165.0 |
+| reel-sabado-19-dic | 45.0 |
+| reel-domingo-20-dic | 185.0 |
