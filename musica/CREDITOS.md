@@ -33,3 +33,14 @@
 | reel-viernes-11-dic-m2 | 107.0 |
 | reel-sabado-12-dic-m2 | 187.0 |
 | reel-domingo-13-dic-m2 | 265.9 |
+
+## Funky Chunk (`funky-chunk.mp3`)
+- Autor: Kevin MacLeod (incompetech.com)
+- Licencia: Creative Commons Attribution 4.0 (CC BY 4.0) — https://creativecommons.org/licenses/by/4.0/
+- Fuente: https://incompetech.com/music/royalty-free/ (ISRC USUAN1500054, 3:59, 115 BPM)
+- Requisito: dar crédito. En cada Reel que la use, el caption incluye:
+  `🎵 "Funky Chunk" Kevin MacLeod (incompetech.com) · CC BY 4.0`
+
+### Tramos ya usados (segundos de inicio)
+| Reel | Inicio |
+|---|---|
