@@ -1,0 +1,9 @@
+[
+ {
+  "id": "prueba-story",
+  "fecha": "2099-01-01T19:30",
+  "tipo": "STORY",
+  "archivo": "story-dic-plancha-on-1080x1920.jpg",
+  "nota": "Solo para probar a mano con solo_id; la fecha lejana evita que salga sola."
+ }
+]
