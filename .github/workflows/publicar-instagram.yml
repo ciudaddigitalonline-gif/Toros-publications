@@ -1,0 +1,54 @@
+name: Publicar en Instagram
+
+on:
+  schedule:
+    # Cada 10 minutos (GitHub puede atrasarse unos minutos en horas pico).
+    - cron: "3-59/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      solo_id:
+        description: "Publicar ya un id del calendario (para pruebas)"
+        required: false
+        default: ""
+  push:
+    branches: [main]
+    paths: ["publicador/calendario.json"]
+
+concurrency:
+  group: publicar-instagram
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Revisar el calendario
+        run: SOLO_VALIDAR=1 python3 publicador/publicar.py
+
+      - name: Publicar lo que toca
+        if: github.event_name != 'push'
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          SOLO_ID: ${{ inputs.solo_id }}
+        run: python3 publicador/publicar.py
+
+      - name: Guardar el registro
+        if: always() && github.event_name != 'push'
+        run: |
+          [ -f publicador/publicados.json ] || exit 0
+          git add publicador/publicados.json
+          git diff --cached --quiet && exit 0
+          git config user.name "publicador-toros"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Registro de publicaciones de Instagram"
+          for i in 1 2 3 4; do
+            git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          exit 1

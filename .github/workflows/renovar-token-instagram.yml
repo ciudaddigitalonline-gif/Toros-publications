@@ -1,0 +1,21 @@
+name: Renovar token de Instagram
+
+on:
+  schedule:
+    - cron: "17 9 * * 1"  # lunes 06:17 en Bahía Blanca
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install --quiet pynacl==1.5.0
+      - name: Renovar
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python3 publicador/renovar_token.py
