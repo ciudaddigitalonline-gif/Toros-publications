@@ -1,9 +1,8 @@
 name: Publicar en Instagram
 
 on:
-  schedule:
-    # Cada 10 minutos (GitHub puede atrasarse unos minutos en horas pico).
-    - cron: "3-59/10 * * * *"
+  # Pausado: desde el 24/11/2026 Instagram se publica con Buffer (ver CLAUDE.md).
+  # Para reactivar la API propia, volver a agregar el schedule cada 10 minutos.
   workflow_dispatch:
     inputs:
       solo_id:

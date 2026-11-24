@@ -50,3 +50,4 @@
 | reel-viernes-18-dic | 165.0 |
 | reel-sabado-19-dic | 45.0 |
 | reel-domingo-20-dic | 185.0 |
+| reel-lanzamiento-criolla-30-nov | 120.0 |
