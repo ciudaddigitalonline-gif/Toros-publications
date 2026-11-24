@@ -1,9 +1,29 @@
 [
  {
+  "id": "teaser-criolla-29-nov",
+  "fecha": "2026-11-29T22:30",
+  "tipo": "STORY",
+  "archivo": "story-teaser-criolla-29-nov-1080x1920.jpg",
+  "nota": "Ya programada en Buffer"
+ },
+ {
+  "id": "reel-lanzamiento-criolla-30-nov",
+  "fecha": "2026-11-30T19:00",
+  "tipo": "REEL",
+  "archivo": "reel-lanzamiento-criolla-30-nov.mp4",
+  "caption": "NUEVA en Toro's 🔥 Llegó La Criolla: smash con morrón asado a la provenzal y queso parmesano. Para paladares parrilleros 🐂\nLo mejor, con 10% a 30% OFF hoy en PedidosYa 📲\nAbrimos 19:30. Seguinos 👉 @toros.smash\nEtiquetá a tu compañero de asado 👇\n\n#lomejordebahia #lamejorburguerdebahia #lasmejoresdebahia #smashburger #torossmashburgers #hamburguesas\n\n🎵 \"Funky Chunk\" Kevin MacLeod (incompetech.com) · CC BY 4.0"
+ },
+ {
+  "id": "story-llego-criolla-30-nov",
+  "fecha": "2026-11-30T19:30",
+  "tipo": "STORY",
+  "archivo": "story-llego-criolla-30-nov-1080x1920.jpg"
+ },
+ {
   "id": "prueba-story",
   "fecha": "2099-01-01T19:30",
   "tipo": "STORY",
   "archivo": "story-dic-plancha-on-1080x1920.jpg",
-  "nota": "Solo para probar a mano con solo_id; la fecha lejana evita que salga sola."
+  "nota": "Solo para pruebas manuales"
  }
 ]

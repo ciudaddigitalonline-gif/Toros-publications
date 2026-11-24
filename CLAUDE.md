@@ -6,11 +6,11 @@
 - Trabajar sobre las fotos reales de las burgers. No usar comida generada con IA; activar la etiqueta de IA solo si una pieza es realmente generada por IA y el usuario lo confirma.
 
 ## Publicación en Instagram
-- Desde noviembre 2026 Instagram NO se programa en Metricool (el plan gratis se quedó sin cupo). Se publica con el publicador del repo: GitHub Actions + API oficial de Instagram.
-- Para programar: agregar entradas a `publicador/calendario.json` (`id` único, `fecha` en hora de Bahía Blanca `AAAA-MM-DDTHH:MM`, `tipo` POST/REEL/STORY, `archivo` del repo o `url`, `caption`; las stories van sin caption) y subirlo por PR junto con los archivos nuevos.
-- El registro de lo publicado está en `publicador/publicados.json` (lo escribe el workflow; no editarlo salvo para reintentar algo).
-- Configuración y secretos (`IG_TOKEN`, `GH_PAT`): ver `publicador/CONFIGURAR.md`. Nunca pedir ni guardar tokens en el chat ni en archivos.
-- TikTok queda manual hasta que TikTok apruebe una app propia.
+- Desde el 24/11/2026 Instagram se publica con **Buffer** (conector de claude.ai, plan gratis: máximo 10 publicaciones programadas en total). Org 6b052ea172614cc37034f55b, canal Instagram toros.smash 6b052f7e8541f09ecb854433. Metricool ya no publica Instagram (sin cupo); sus publicaciones de diciembre quedaron en borrador y sirven de fuente de contenido.
+- Una tarea diaria (9:39, en la conversación que tiene los conectores) rellena la cola de Buffer: primero con `publicador/calendario.json` (tiene prioridad y reemplaza lo de Metricool en el mismo horario), después con lo de Metricool.
+- Para programar algo nuevo: subir los archivos al repo por PR y agregar la entrada a `publicador/calendario.json` (`id`, `fecha` en hora de Bahía Blanca `AAAA-MM-DDTHH:MM`, `tipo` POST/REEL/STORY, `archivo`, `caption`; stories sin caption). En Buffer usar la URL raw de GitHub.
+- El publicador propio por API (`publicador/publicar.py` + GitHub Actions) quedó pausado: nunca se configuró el token de Meta.
+- TikTok queda manual (no está conectado en Buffer).
 
 ## Música de los Reels
 - Desde la semana del 14/12/2026 usar `musica/funky-chunk.mp3` ("Funky Chunk", Kevin MacLeod, CC BY 4.0) con su crédito en el caption.
