@@ -51,3 +51,8 @@
 | reel-sabado-19-dic | 45.0 |
 | reel-domingo-20-dic | 185.0 |
 | reel-lanzamiento-criolla-30-nov | 120.0 |
+| reel-lunes-21-dic | 10.0 |
+| reel-sorteo-21-dic | 75.0 |
+| reel-miercoles-23-dic | 140.0 |
+| reel-viernes-25-dic | 205.0 |
+| reel-domingo-27-dic | 222.0 |
