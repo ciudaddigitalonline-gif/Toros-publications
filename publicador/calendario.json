@@ -7,6 +7,45 @@
   "nota": "Prueba del publicador propio; reemplaza la story de Buffer de esa hora"
  },
  {
+  "id": "reel-cheddar-27-nov",
+  "fecha": "2026-11-27T19:00",
+  "tipo": "REEL",
+  "archivo": "reel-cheddar-27-nov.mp4",
+  "caption": "¿Triple Cheddar o Bacon Triple? 🧀🔥 Vos elegís.\nLo mejor, con 10% a 30% OFF hoy en PedidosYa 📲\nAbrimos 19:30. Seguinos 👉 @toros.smash\nCompartilo con quien siempre dice \"¿pedimos algo?\" 🍔\n\n#lomejordebahia #lamejorburguerdebahia #lasmejoresdebahia #smashburger #torossmashburgers #hamburguesas\n\n🎵 \"Happy Bee - Surf\" Kevin MacLeod (incompetech.com) · CC BY 4.0"
+ },
+ {
+  "id": "story-cheddar-27-nov",
+  "fecha": "2026-11-27T21:00",
+  "tipo": "STORY",
+  "archivo": "story-triple-cheddar-27-nov-1080x1920.jpg"
+ },
+ {
+  "id": "reel-mexicana-28-nov",
+  "fecha": "2026-11-28T19:00",
+  "tipo": "REEL",
+  "archivo": "reel-mexicana-28-nov.mp4",
+  "caption": "La Mexicana 🥑🔥 Salsa guacamole, cebolla morada, tomate cherry y provolone. También en combo.\nLo mejor, con 10% a 30% OFF hoy en PedidosYa 📲\nAbrimos 19:30. Seguinos 👉 @toros.smash\nMandáselo a quien tiene que probarla sí o sí 👀\n\n#lomejordebahia #lamejorburguerdebahia #lasmejoresdebahia #smashburger #torossmashburgers #hamburguesas\n\n🎵 \"Happy Bee - Surf\" Kevin MacLeod (incompetech.com) · CC BY 4.0"
+ },
+ {
+  "id": "story-mexicana-28-nov",
+  "fecha": "2026-11-28T21:00",
+  "tipo": "STORY",
+  "archivo": "story-la-mexicana-28-nov-1080x1920.jpg"
+ },
+ {
+  "id": "reel-combo-29-nov",
+  "fecha": "2026-11-29T19:00",
+  "tipo": "REEL",
+  "archivo": "reel-combo-29-nov.mp4",
+  "caption": "Pedila en combo 🍔🍟 Gourmet o Classic, cerrá el finde con una Toro's.\nLo mejor, con 10% a 30% OFF hoy en PedidosYa 📲\nAbrimos 19:30. Seguinos 👉 @toros.smash\nMandáselo a quien te debe una burger 👀\n\n#lomejordebahia #lamejorburguerdebahia #lasmejoresdebahia #smashburger #torossmashburgers #hamburguesas\n\n🎵 \"Happy Bee - Surf\" Kevin MacLeod (incompetech.com) · CC BY 4.0"
+ },
+ {
+  "id": "story-gourmet-29-nov",
+  "fecha": "2026-11-29T21:00",
+  "tipo": "STORY",
+  "archivo": "story-gourmet-27-dic-1080x1920.jpg"
+ },
+ {
   "id": "teaser-criolla-29-nov",
   "fecha": "2026-11-29T22:30",
   "tipo": "STORY",
