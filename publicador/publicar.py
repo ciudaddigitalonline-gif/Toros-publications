@@ -19,7 +19,8 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-API = "https://graph.instagram.com/v23.0"
+API_IG = "https://graph.instagram.com/v23.0"  # token de login de Instagram (empieza con IG)
+API_FB = "https://graph.facebook.com/v23.0"  # token de login de Facebook para empresas
 RAW = "https://raw.githubusercontent.com/{repo}/main/{archivo}"
 ZONA = timezone(timedelta(hours=-3))  # Bahía Blanca, sin horario de verano
 VENTANA = timedelta(hours=2)  # si se atrasa más que esto, no se publica
@@ -36,8 +37,13 @@ class ErrorApi(Exception):
     pass
 
 
+def api():
+    return API_IG if os.environ["IG_TOKEN"].strip().startswith("IG") else API_FB
+
+
 def pedir(metodo, ruta, datos=None):
-    token = os.environ["IG_TOKEN"]
+    token = os.environ["IG_TOKEN"].strip()
+    API = api()
     datos = dict(datos or {})
     datos["access_token"] = token
     cuerpo = urllib.parse.urlencode(datos).encode()
@@ -55,6 +61,34 @@ def pedir(metodo, ruta, datos=None):
         except ValueError:
             msg = texto
         raise ErrorApi(f"{e.code}: {msg[:300]}") from None
+
+
+def cuenta():
+    """Devuelve el id de la cuenta de Instagram que publica, según el tipo de token."""
+    if api() == API_IG:
+        yo = pedir("GET", "me", {"fields": "user_id,username"})
+        print(f"Cuenta: @{yo.get('username')} (login de Instagram)")
+        return yo["user_id"]
+    buscado = os.environ.get("IG_USUARIO", "toros.smash")
+    campos = {"fields": "instagram_business_account{id,username}", "limit": "100"}
+    cuentas = []
+    for pagina in pedir("GET", "me/accounts", campos).get("data", []):
+        ig = pagina.get("instagram_business_account")
+        if ig:
+            cuentas.append(ig)
+    try:
+        for negocio in pedir("GET", "me/businesses", {"fields": "id", "limit": "100"}).get("data", []):
+            for ig in pedir("GET", f"{negocio['id']}/owned_instagram_accounts",
+                            {"fields": "id,username", "limit": "100"}).get("data", []):
+                cuentas.append(ig)
+    except ErrorApi as e:
+        print(f"(No se pudieron leer los portfolios: {e})")
+    for ig in cuentas:
+        if ig.get("username") == buscado:
+            print(f"Cuenta: @{buscado} (login de Facebook)")
+            return ig["id"]
+    vistas = ", ".join("@" + c.get("username", "?") for c in cuentas) or "ninguna"
+    raise SystemExit(f"El token no da acceso a @{buscado}. Cuentas visibles: {vistas}")
 
 
 def url_de(item):
@@ -136,6 +170,11 @@ def main():
         print(f"Calendario OK: {len(calendario)} publicaciones")
         return 0
 
+    if os.environ.get("SOLO_VERIFICAR"):
+        cuenta()
+        print("Token OK. No se publicó nada.")
+        return 0
+
     publicados = cargar(PUBLICADOS, {})
     solo_id = os.environ.get("SOLO_ID", "").strip()
     ahora = datetime.now(timezone.utc)
@@ -158,9 +197,7 @@ def main():
         print("Nada para publicar ahora.")
         return 0
 
-    yo = pedir("GET", "me", {"fields": "user_id,username"})
-    ig_id = yo["user_id"]
-    print(f"Cuenta: @{yo.get('username')}")
+    ig_id = cuenta()
 
     fallas = 0
     for item in pendientes:
