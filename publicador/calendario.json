@@ -7,11 +7,88 @@
   "nota": "Prueba del publicador propio; reemplaza la story de Buffer de esa hora"
  },
  {
+  "id": "extra-1300-27-11",
+  "fecha": "2026-11-27T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-27-11",
+  "fecha": "2026-11-27T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-27-11",
+  "fecha": "2026-11-27T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-28-11",
+  "fecha": "2026-11-28T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-28-11",
+  "fecha": "2026-11-28T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-28-11",
+  "fecha": "2026-11-28T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-29-11",
+  "fecha": "2026-11-29T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-29-11",
+  "fecha": "2026-11-29T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-29-11",
+  "fecha": "2026-11-29T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
   "id": "teaser-criolla-29-nov",
   "fecha": "2026-11-29T22:30",
   "tipo": "STORY",
   "archivo": "story-teaser-criolla-29-nov-1080x1920.jpg",
   "nota": "Ya programada en Buffer"
+ },
+ {
+  "id": "extra-1300-30-11",
+  "fecha": "2026-11-30T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-gourmet-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-30-11",
+  "fecha": "2026-11-30T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-trio-1080x1920.jpg",
+  "via": "publicador"
  },
  {
   "id": "reel-lanzamiento-criolla-30-nov",
@@ -27,6 +104,447 @@
   "archivo": "story-llego-criolla-30-nov-1080x1920.jpg"
  },
  {
+  "id": "extra-2015-30-11",
+  "fecha": "2026-11-30T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-01-12",
+  "fecha": "2026-12-01T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-01-12",
+  "fecha": "2026-12-01T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-01-12",
+  "fecha": "2026-12-01T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-02-12",
+  "fecha": "2026-12-02T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-02-12",
+  "fecha": "2026-12-02T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-02-12",
+  "fecha": "2026-12-02T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-03-12",
+  "fecha": "2026-12-03T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-03-12",
+  "fecha": "2026-12-03T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-03-12",
+  "fecha": "2026-12-03T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-04-12",
+  "fecha": "2026-12-04T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-gourmet-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-04-12",
+  "fecha": "2026-12-04T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-04-12",
+  "fecha": "2026-12-04T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-05-12",
+  "fecha": "2026-12-05T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-05-12",
+  "fecha": "2026-12-05T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-05-12",
+  "fecha": "2026-12-05T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-06-12",
+  "fecha": "2026-12-06T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-06-12",
+  "fecha": "2026-12-06T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-06-12",
+  "fecha": "2026-12-06T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-07-12",
+  "fecha": "2026-12-07T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-07-12",
+  "fecha": "2026-12-07T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-07-12",
+  "fecha": "2026-12-07T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-08-12",
+  "fecha": "2026-12-08T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-gourmet-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-08-12",
+  "fecha": "2026-12-08T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-08-12",
+  "fecha": "2026-12-08T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-09-12",
+  "fecha": "2026-12-09T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-09-12",
+  "fecha": "2026-12-09T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-09-12",
+  "fecha": "2026-12-09T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-10-12",
+  "fecha": "2026-12-10T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-10-12",
+  "fecha": "2026-12-10T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-10-12",
+  "fecha": "2026-12-10T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-11-12",
+  "fecha": "2026-12-11T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-11-12",
+  "fecha": "2026-12-11T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-11-12",
+  "fecha": "2026-12-11T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-12-12",
+  "fecha": "2026-12-12T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-gourmet-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-12-12",
+  "fecha": "2026-12-12T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-12-12",
+  "fecha": "2026-12-12T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-13-12",
+  "fecha": "2026-12-13T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-13-12",
+  "fecha": "2026-12-13T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-13-12",
+  "fecha": "2026-12-13T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-14-12",
+  "fecha": "2026-12-14T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-14-12",
+  "fecha": "2026-12-14T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-14-12",
+  "fecha": "2026-12-14T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-15-12",
+  "fecha": "2026-12-15T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-15-12",
+  "fecha": "2026-12-15T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-15-12",
+  "fecha": "2026-12-15T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-16-12",
+  "fecha": "2026-12-16T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-gourmet-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-16-12",
+  "fecha": "2026-12-16T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-16-12",
+  "fecha": "2026-12-16T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-17-12",
+  "fecha": "2026-12-17T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-17-12",
+  "fecha": "2026-12-17T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-17-12",
+  "fecha": "2026-12-17T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-18-12",
+  "fecha": "2026-12-18T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-18-12",
+  "fecha": "2026-12-18T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-18-12",
+  "fecha": "2026-12-18T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-19-12",
+  "fecha": "2026-12-19T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-19-12",
+  "fecha": "2026-12-19T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-19-12",
+  "fecha": "2026-12-19T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-20-12",
+  "fecha": "2026-12-20T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-gourmet-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-20-12",
+  "fecha": "2026-12-20T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-2015-20-12",
+  "fecha": "2026-12-20T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1300-21-12",
+  "fecha": "2026-12-21T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-21-12",
+  "fecha": "2026-12-21T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
   "id": "reel-lunes-21-dic",
   "fecha": "2026-12-21T19:00",
   "tipo": "REEL",
@@ -38,6 +556,13 @@
   "fecha": "2026-12-21T19:30",
   "tipo": "STORY",
   "archivo": "story-14-20-dic-plancha-on-1080x1920.jpg"
+ },
+ {
+  "id": "extra-2015-21-12",
+  "fecha": "2026-12-21T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
  },
  {
   "id": "reel-sorteo-21-dic",
@@ -59,6 +584,20 @@
   "archivo": "story-14-20-dic-a-tiempo-1080x1920.jpg"
  },
  {
+  "id": "extra-1300-22-12",
+  "fecha": "2026-12-22T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-22-12",
+  "fecha": "2026-12-22T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-classic-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
   "id": "post-martes-22-dic",
   "fecha": "2026-12-22T19:00",
   "tipo": "POST",
@@ -70,6 +609,13 @@
   "fecha": "2026-12-22T19:30",
   "tipo": "STORY",
   "archivo": "story-14-20-dic-ya-abrimos-1080x1920.jpg"
+ },
+ {
+  "id": "extra-2015-22-12",
+  "fecha": "2026-12-22T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
  },
  {
   "id": "story-martes-22-dic",
@@ -84,6 +630,20 @@
   "archivo": "story-14-20-dic-ultimos-pedidos-1080x1920.jpg"
  },
  {
+  "id": "extra-1300-23-12",
+  "fecha": "2026-12-23T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-cheddar-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-23-12",
+  "fecha": "2026-12-23T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-mexicana-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
   "id": "reel-miercoles-23-dic",
   "fecha": "2026-12-23T19:00",
   "tipo": "REEL",
@@ -95,6 +655,13 @@
   "fecha": "2026-12-23T19:30",
   "tipo": "STORY",
   "archivo": "story-14-20-dic-plancha-on-1080x1920.jpg"
+ },
+ {
+  "id": "extra-2015-23-12",
+  "fecha": "2026-12-23T20:15",
+  "tipo": "STORY",
+  "archivo": "story-pedila-combo-bacon-1080x1920.jpg",
+  "via": "publicador"
  },
  {
   "id": "story-sorteo-23-dic",
@@ -147,6 +714,20 @@
   "archivo": "story-cerrado-24-26-dic-1080x1920.jpg"
  },
  {
+  "id": "extra-1300-27-12",
+  "fecha": "2026-12-27T13:00",
+  "tipo": "STORY",
+  "archivo": "story-que-pedis-gourmet-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
+  "id": "extra-1800-27-12",
+  "fecha": "2026-12-27T18:00",
+  "tipo": "STORY",
+  "archivo": "story-hoy-abrimos-trio-1080x1920.jpg",
+  "via": "publicador"
+ },
+ {
   "id": "reel-domingo-27-dic",
   "fecha": "2026-12-27T19:00",
   "tipo": "REEL",
@@ -158,6 +739,13 @@
   "fecha": "2026-12-27T19:30",
   "tipo": "STORY",
   "archivo": "story-14-20-dic-ya-abrimos-1080x1920.jpg"
+ },
+ {
+  "id": "extra-2015-27-12",
+  "fecha": "2026-12-27T20:15",
+  "tipo": "STORY",
+  "archivo": "story-sumale-papas-mexicana-1080x1920.jpg",
+  "via": "publicador"
  },
  {
   "id": "story-sorteo-27-dic",

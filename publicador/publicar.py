@@ -216,9 +216,10 @@ def main():
         if not pendientes:
             raise SystemExit(f"No hay ningún id '{solo_id}' en el calendario")
     else:
+        # Solo lo marcado "via": "publicador"; el resto lo publica Buffer.
         pendientes = [
             i for i in calendario
-            if fecha_de(i) <= ahora and (
+            if i.get("via") == "publicador" and fecha_de(i) <= ahora and (
                 i["id"] not in publicados
                 or (publicados[i["id"]].get("estado") == "error"
                     and publicados[i["id"]].get("intentos", 1) < INTENTOS))
