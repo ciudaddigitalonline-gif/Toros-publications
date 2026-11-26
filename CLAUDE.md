@@ -13,7 +13,8 @@
 - TikTok queda manual (no está conectado en Buffer).
 
 ## Contenido
-- Los días de la semana sí van ("Lunes, arrancá la semana con la que más te guste", "Sábado de juntadas: pedí un buen combo", "Viernes 🔥"). Lo que no va es atar una burger a un día como si solo estuviera ese día (nada de "Miércoles de Alemana", "Lunes de guacamole", "Viernes de cheddar"). Cualquier día se puede mostrar una, varias o todas.
+- Los días de la semana sí van ("Lunes, arrancá la semana con la que más te guste", "Sábado de juntadas: pedí un buen combo", "Viernes 🔥"). Lo que no va es atar una burger a un día como si solo estuviera ese día (nada de "Miércoles de Alemana", "Lunes de guacamole", "Viernes de cheddar"). Cualquier día se puede mostrar una, varias o todas. Motivo: si ese día una burger no tiene stock queda mal, o parece que fuera la única para pedir.
+- Usar siempre el día o el momento de la semana como gancho: arranque de semana, mitad de semana, fin de semana, día de juntada; y los combos: combo para compartir, combo con descuento.
 
 ## Música de los Reels
 - Desde la semana del 14/12/2026 usar `musica/funky-chunk.mp3` ("Funky Chunk", Kevin MacLeod, CC BY 4.0) con su crédito en el caption.
