@@ -13,7 +13,7 @@
 - TikTok queda manual (no está conectado en Buffer).
 
 ## Contenido
-- No asociar días de la semana a una hamburguesa (nada de "Miércoles de guacamole", "Viernes de cheddar", "Domingo gourmet"). Mostrar las burgers sin atarlas a un día.
+- Se puede anunciar una burger sola o todas juntas, pero sin títulos que la aten a un día (nada de "Miércoles de guacamole", "Viernes de cheddar", "Domingo gourmet"). Títulos válidos: el nombre de la burger ("Así es La Alemana", "La Mexicana") o del menú ("Elegí la tuya").
 
 ## Música de los Reels
 - Desde la semana del 14/12/2026 usar `musica/funky-chunk.mp3` ("Funky Chunk", Kevin MacLeod, CC BY 4.0) con su crédito en el caption.
