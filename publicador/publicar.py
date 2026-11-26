@@ -37,8 +37,27 @@ class ErrorApi(Exception):
     pass
 
 
+_API = []
+
+
 def api():
-    return API_IG if os.environ["IG_TOKEN"].strip().startswith("IG") else API_FB
+    """Elige el host según el token: prueba login de Instagram y, si no, el de Facebook."""
+    if not _API:
+        token = os.environ.get("IG_TOKEN", "").strip()
+        if not token:
+            raise SystemExit("Falta el secreto IG_TOKEN en GitHub (Settings → Secrets → Actions).")
+        for host in ([API_IG, API_FB] if not token.startswith("EAA") else [API_FB]):
+            q = urllib.parse.urlencode({"access_token": token, "fields": "id"})
+            try:
+                with urllib.request.urlopen(f"{host}/me?{q}", timeout=60):
+                    _API.append(host)
+                    break
+            except urllib.error.HTTPError:
+                continue
+        if not _API:
+            raise SystemExit(f"El IG_TOKEN guardado no es válido ni para Instagram ni para Facebook "
+                             f"(largo {len(token)}, empieza con '{token[:3]}…'). Generá uno nuevo.")
+    return _API[0]
 
 
 def pedir(metodo, ruta, datos=None):
