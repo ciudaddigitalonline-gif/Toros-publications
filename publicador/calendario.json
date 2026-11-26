@@ -1,5 +1,12 @@
 [
  {
+  "id": "prueba-publicador-26-nov",
+  "fecha": "2026-11-26T19:30",
+  "tipo": "STORY",
+  "archivo": "story-jueves-26-nov-abrimos-1080x1920.jpg",
+  "nota": "Prueba del publicador propio; reemplaza la story de Buffer de esa hora"
+ },
+ {
   "id": "teaser-criolla-29-nov",
   "fecha": "2026-11-29T22:30",
   "tipo": "STORY",
