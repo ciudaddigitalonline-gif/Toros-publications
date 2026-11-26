@@ -89,6 +89,19 @@ def cuenta():
         print(f"Cuenta: @{yo.get('username')} (login de Instagram)")
         return yo["user_id"]
     buscado = os.environ.get("IG_USUARIO", "toros.smash")
+    ig_id = os.environ.get("IG_ID", "17841408315307930")  # id de @toros.smash en Meta
+    try:
+        ig = pedir("GET", ig_id, {"fields": "id,username"})
+        print(f"Cuenta: @{ig.get('username')} (login de Facebook)")
+        return ig["id"]
+    except ErrorApi as e:
+        print(f"(No se pudo leer la cuenta {ig_id}: {e})")
+        try:
+            permisos = pedir("GET", "me/permissions").get("data", [])
+            ok = [x["permission"] for x in permisos if x.get("status") == "granted"]
+            print("Permisos del token: " + (", ".join(ok) or "ninguno"))
+        except ErrorApi:
+            pass
     campos = {"fields": "instagram_business_account{id,username}", "limit": "100"}
     cuentas = []
     for pagina in pedir("GET", "me/accounts", campos).get("data", []):
