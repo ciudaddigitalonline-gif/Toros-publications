@@ -9,6 +9,10 @@ on:
         description: "Publicar ya un id del calendario (para pruebas)"
         required: false
         default: ""
+      verificar:
+        description: "Solo verificar el token, sin publicar"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ["publicador/calendario.json"]
@@ -35,6 +39,7 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           SOLO_ID: ${{ inputs.solo_id }}
+          SOLO_VERIFICAR: ${{ inputs.verificar && '1' || '' }}
         run: python3 publicador/publicar.py
 
       - name: Guardar el registro
