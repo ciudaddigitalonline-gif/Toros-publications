@@ -9,7 +9,8 @@
 - Desde el 24/11/2026 Instagram se publica con **Buffer** (conector de claude.ai, plan gratis: máximo 10 publicaciones programadas en total). Org 6b052ea172614cc37034f55b, canal Instagram toros.smash 6b052f7e8541f09ecb854433. Metricool ya no publica Instagram (sin cupo); sus publicaciones de diciembre quedaron en borrador y sirven de fuente de contenido.
 - Una tarea diaria (9:39, en la conversación que tiene los conectores) rellena la cola de Buffer: primero con `publicador/calendario.json` (tiene prioridad y reemplaza lo de Metricool en el mismo horario), después con lo de Metricool.
 - Para programar algo nuevo: subir los archivos al repo por PR y agregar la entrada a `publicador/calendario.json` (`id`, `fecha` en hora de Bahía Blanca `AAAA-MM-DDTHH:MM`, `tipo` POST/REEL/STORY, `archivo`, `caption`; stories sin caption). En Buffer usar la URL raw de GitHub.
-- El publicador propio por API (`publicador/publicar.py` + GitHub Actions) quedó pausado: nunca se configuró el token de Meta.
+- Publicador propio por API (`publicador/publicar.py` + GitHub Actions cada 10 min, token `IG_TOKEN` de login de Facebook, cuenta @toros.smash id 17841408315307930 en el portfolio TYG LOGISTICA): publica solo las entradas con `"via": "publicador"`; la tarea diaria de Buffer debe saltearlas.
+- Desde el 27/11/2026 hay 3 stories extra por día abierto (13:00, 18:00, 20:15) que salen por el publicador propio: lunes "Arrancá la semana", miércoles "Mitad de semana", viernes "Llegó el finde", sábado "Finde de juntadas", viernes y domingo "Combo para compartir"; el resto de los días rotan "¿Qué pedís esta noche?", "Hoy abrimos 19:30", "Pedila en combo" y "Sumale papas".
 - TikTok queda manual (no está conectado en Buffer).
 
 ## Contenido

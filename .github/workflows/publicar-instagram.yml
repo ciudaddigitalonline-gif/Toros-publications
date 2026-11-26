@@ -1,8 +1,10 @@
 name: Publicar en Instagram
 
 on:
-  # Pausado: desde el 24/11/2026 Instagram se publica con Buffer (ver CLAUDE.md).
-  # Para reactivar la API propia, volver a agregar el schedule cada 10 minutos.
+  # Publica las entradas de calendario.json marcadas "via": "publicador".
+  # Lo demás de Instagram sigue saliendo por Buffer (ver CLAUDE.md).
+  schedule:
+    - cron: "*/10 * * * *"
   workflow_dispatch:
     inputs:
       solo_id:
