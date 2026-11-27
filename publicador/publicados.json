@@ -5,5 +5,18 @@
   "cuando": "2026-11-26T19:21-03:00",
   "media_id": "18654215845027033",
   "estado": "publicado"
+ },
+ "extra-1300-27-11": {
+  "fecha": "2026-11-27T13:00",
+  "tipo": "STORY",
+  "cuando": "2026-11-27T19:43-03:00",
+  "estado": "vencido"
+ },
+ "extra-1800-27-11": {
+  "fecha": "2026-11-27T18:00",
+  "tipo": "STORY",
+  "cuando": "2026-11-27T19:43-03:00",
+  "media_id": "18599877853068780",
+  "estado": "publicado"
  }
 }
