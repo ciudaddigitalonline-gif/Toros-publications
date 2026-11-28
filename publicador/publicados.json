@@ -18,5 +18,11 @@
   "cuando": "2026-11-27T19:43-03:00",
   "media_id": "18599877853068780",
   "estado": "publicado"
+ },
+ "extra-2015-27-11": {
+  "fecha": "2026-11-27T20:15",
+  "tipo": "STORY",
+  "cuando": "2026-11-28T01:16-03:00",
+  "estado": "vencido"
  }
 }
